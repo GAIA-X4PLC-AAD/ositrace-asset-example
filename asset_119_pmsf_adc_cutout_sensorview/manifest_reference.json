@@ -158,7 +158,7 @@
             "@type": "xsd:integer"
           },
           "manifest:filename": {
-            "@value": "20240603T143803.ositrace_instance.json",
+            "@value": "ositrace_instance.json",
             "@type": "xsd:string"
           }
         }
