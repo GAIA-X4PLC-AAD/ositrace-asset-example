@@ -50,11 +50,11 @@
         "manifest:hasFileMetadata": {
           "@type": "manifest:FileMetadata",
           "manifest:filePath": {
-            "@value": "https://www.mozilla.org/en-US/MPL/2.0/",
+            "@value": "./LICENSE",
             "@type": "xsd:anyURI"
           },
           "manifest:mimeType": {
-            "@value": "text/html",
+            "@value": "text/plain",
             "@type": "xsd:string"
           }
         }
