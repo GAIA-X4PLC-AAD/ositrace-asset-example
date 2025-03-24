@@ -104,11 +104,11 @@
         "manifest:hasFileMetadata": {
           "@type": "manifest:FileMetadata",
           "manifest:filePath": {
-            "@value": "./documentation/description.txt",
+            "@value": "./documentation/20240603T143803.535904Z_sv_370_3200_364_pmsf_dronetracker_119_cutout_Documentation",
             "@type": "xsd:anyURI"
           },
           "manifest:mimeType": {
-            "@value": "text/plain",
+            "@value": "application/pdf",
             "@type": "xsd:string"
           },
           "manifest:fileSize": {
@@ -116,7 +116,7 @@
             "@type": "xsd:integer"
           },
           "manifest:filename": {
-            "@value": "description.txt",
+            "@value": "20240603T143803.535904Z_sv_370_3200_364_pmsf_dronetracker_119_cutout_Documentation",
             "@type": "xsd:string"
           }
         }
