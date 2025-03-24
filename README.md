@@ -32,7 +32,9 @@ The Repo has the following structure:
 
 📁 `.github` *-> github workflows*
 
-📁 `asset_119_pmsf_adc_cutout_sensorview` *-> contains the asset*
+📁 `asset_119_pmsf_adc_cutout_sensorview` *-> contains asset (1)*
+
+📁 `asset_119_pmsf_adc_cutout_sensordata` *-> contains asset (2)*
 
 - 📄 *`README.md`* <i style="color:gray;">(defines asset folder structure)</i>
 - 📄 *`..more..`* <i style="color:gray;">(see folder)</i>
