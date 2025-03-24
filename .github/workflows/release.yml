@@ -25,6 +25,12 @@ jobs:
     - name: Install zip
       run: sudo apt-get install -y zip
 
+    - name: Copy LICENSE to asset_119_pmsf_adc_cutout_sensordata
+      run: cp LICENSE ./asset_119_pmsf_adc_cutout_sensordata/
+
+    - name: Copy LICENSE to asset_119_pmsf_adc_cutout_sensorview
+      run: cp LICENSE ./asset_119_pmsf_adc_cutout_sensorview/
+
     - name: Create zip file
       run: |
         zip -r ./asset_119_pmsf_adc_cutout_sensordata.zip ./asset_119_pmsf_adc_cutout_sensordata/*
