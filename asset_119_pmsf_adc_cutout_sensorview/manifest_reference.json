@@ -104,7 +104,7 @@
         "manifest:hasFileMetadata": {
           "@type": "manifest:FileMetadata",
           "manifest:filePath": {
-            "@value": "./documentation/20240603T143803.535904Z_sv_370_3200_364_pmsf_dronetracker_119_cutout_Documentation",
+            "@value": "./documentation/20240603T143803.535904Z_sv_370_3200_364_pmsf_dronetracker_119_cutout_Documentation.pdf",
             "@type": "xsd:anyURI"
           },
           "manifest:mimeType": {
@@ -116,7 +116,7 @@
             "@type": "xsd:integer"
           },
           "manifest:filename": {
-            "@value": "20240603T143803.535904Z_sv_370_3200_364_pmsf_dronetracker_119_cutout_Documentation",
+            "@value": "20240603T143803.535904Z_sv_370_3200_364_pmsf_dronetracker_119_cutout_Documentation.pdf",
             "@type": "xsd:string"
           }
         }
