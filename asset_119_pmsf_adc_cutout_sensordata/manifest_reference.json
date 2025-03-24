@@ -255,48 +255,6 @@
       },
       {
         "@type": "manifest:Link",
-        "manifest:iri": {
-          "@id": "did:web:registry.gaia-x.eu:OSITrace:DjHgK5ErTBow1Ya3J05tW9l12skGWgZn6kA9"
-        },
-        "skos:note": {
-          "@value": "This is the domain metadata for an OSITrace (OSI SensorView).",
-          "@type": "xsd:string"
-        },
-        "sh:conformsTo": [
-          {
-            "@id": "https://ontologies.envited-x.net/ositrace/v4/ontology#"
-          }
-        ],
-        "manifest:hasAccessRole": {
-          "@type": "manifest:AccessRole",
-          "@id": "envited-x:isPublic"
-        },
-        "manifest:hasCategory": {
-          "@type": "manifest:Category",
-          "@id": "envited-x:isMetadata"
-        },
-        "manifest:hasFileMetadata": {
-          "@type": "manifest:FileMetadata",
-          "manifest:filePath": {
-            "@value": "./metadata/20240603T143803.535904Z_sv_370_3200_364_pmsf_dronetracker_119_cutout.json",
-            "@type": "xsd:anyURI"
-          },
-          "manifest:mimeType": {
-            "@value": "application/ld+json",
-            "@type": "xsd:string"
-          },
-          "manifest:fileSize": {
-            "@value": 3751,
-            "@type": "xsd:integer"
-          },
-          "manifest:filename": {
-            "@value": "20240603T143803.535904Z_sv_370_3200_364_pmsf_dronetracker_119_cutout.json",
-            "@type": "xsd:string"
-          }
-        }
-      },
-      {
-        "@type": "manifest:Link",
         "manifest:hasAccessRole": {
           "@type": "manifest:AccessRole",
           "@id": "envited-x:isPublic"
