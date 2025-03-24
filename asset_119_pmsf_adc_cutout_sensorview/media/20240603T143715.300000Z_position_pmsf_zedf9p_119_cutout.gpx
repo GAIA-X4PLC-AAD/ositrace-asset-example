@@ -1,0 +1,5522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1"
+	 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	 xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+	 version="1.1" creator="PMSF IT Consulting">
+	<trk>
+		<trkseg>
+			<trkpt lon="10.22518251" lat="52.40177964666667">
+				<ele>66.704</ele>
+				<time>2024-06-03T14:37:15.300Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.55</hdop>
+				<ageofdgpsdata>2.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182455" lat="52.4017796">
+				<ele>66.705</ele>
+				<time>2024-06-03T14:37:15.400Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.55</hdop>
+				<ageofdgpsdata>2.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182465" lat="52.40177962833334">
+				<ele>66.709</ele>
+				<time>2024-06-03T14:37:15.500Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.55</hdop>
+				<ageofdgpsdata>2.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182505" lat="52.40177965666667">
+				<ele>66.708</ele>
+				<time>2024-06-03T14:37:15.600Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.55</hdop>
+				<ageofdgpsdata>1.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.22518249" lat="52.40177964666667">
+				<ele>66.709</ele>
+				<time>2024-06-03T14:37:15.700Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.55</hdop>
+				<ageofdgpsdata>1.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182493333334" lat="52.40177965666667">
+				<ele>66.709</ele>
+				<time>2024-06-03T14:37:15.800Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.55</hdop>
+				<ageofdgpsdata>1.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182513333333" lat="52.40177966833333">
+				<ele>66.71</ele>
+				<time>2024-06-03T14:37:15.900Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.55</hdop>
+				<ageofdgpsdata>1.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182515" lat="52.40177965666667">
+				<ele>66.709</ele>
+				<time>2024-06-03T14:37:16.000Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.55</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.22518259" lat="52.401779661666666">
+				<ele>66.709</ele>
+				<time>2024-06-03T14:37:16.100Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.55</hdop>
+				<ageofdgpsdata>2.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182536666667" lat="52.401779635">
+				<ele>66.707</ele>
+				<time>2024-06-03T14:37:16.200Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.55</hdop>
+				<ageofdgpsdata>2.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.22518251" lat="52.40177963166666">
+				<ele>66.705</ele>
+				<time>2024-06-03T14:37:16.300Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.55</hdop>
+				<ageofdgpsdata>1.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182436666667" lat="52.40177961166667">
+				<ele>66.705</ele>
+				<time>2024-06-03T14:37:16.400Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.55</hdop>
+				<ageofdgpsdata>1.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182413333334" lat="52.40177961">
+				<ele>66.703</ele>
+				<time>2024-06-03T14:37:16.500Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.55</hdop>
+				<ageofdgpsdata>1.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182423333333" lat="52.401779618333336">
+				<ele>66.699</ele>
+				<time>2024-06-03T14:37:16.600Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.55</hdop>
+				<ageofdgpsdata>1.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182418333333" lat="52.401779608333335">
+				<ele>66.702</ele>
+				<time>2024-06-03T14:37:16.700Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.55</hdop>
+				<ageofdgpsdata>1.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182398333333" lat="52.401779585">
+				<ele>66.701</ele>
+				<time>2024-06-03T14:37:16.800Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.55</hdop>
+				<ageofdgpsdata>1.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182403333333" lat="52.401779608333335">
+				<ele>66.7</ele>
+				<time>2024-06-03T14:37:16.900Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.55</hdop>
+				<ageofdgpsdata>1.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182413333334" lat="52.401779571666665">
+				<ele>66.699</ele>
+				<time>2024-06-03T14:37:17.000Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.55</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.22518236" lat="52.40177955666667">
+				<ele>66.701</ele>
+				<time>2024-06-03T14:37:17.100Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.55</hdop>
+				<ageofdgpsdata>2.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.22518235" lat="52.40177957666667">
+				<ele>66.703</ele>
+				<time>2024-06-03T14:37:17.200Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.55</hdop>
+				<ageofdgpsdata>2.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182361666667" lat="52.401779561666665">
+				<ele>66.699</ele>
+				<time>2024-06-03T14:37:17.300Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.55</hdop>
+				<ageofdgpsdata>2.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182351666668" lat="52.401779551666664">
+				<ele>66.705</ele>
+				<time>2024-06-03T14:37:17.400Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.55</hdop>
+				<ageofdgpsdata>1.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182371666667" lat="52.40177954333333">
+				<ele>66.705</ele>
+				<time>2024-06-03T14:37:17.500Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.55</hdop>
+				<ageofdgpsdata>1.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.22518237" lat="52.401779581666666">
+				<ele>66.711</ele>
+				<time>2024-06-03T14:37:17.600Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.55</hdop>
+				<ageofdgpsdata>1.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182371666667" lat="52.40177956666667">
+				<ele>66.713</ele>
+				<time>2024-06-03T14:37:17.700Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.55</hdop>
+				<ageofdgpsdata>1.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182371666667" lat="52.401779555">
+				<ele>66.707</ele>
+				<time>2024-06-03T14:37:17.800Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.55</hdop>
+				<ageofdgpsdata>1.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182351666668" lat="52.401779535">
+				<ele>66.708</ele>
+				<time>2024-06-03T14:37:17.900Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.55</hdop>
+				<ageofdgpsdata>1.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182313333333" lat="52.401779481666665">
+				<ele>66.709</ele>
+				<time>2024-06-03T14:37:18.000Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.55</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182328333334" lat="52.40177953833334">
+				<ele>66.71</ele>
+				<time>2024-06-03T14:37:18.150Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.55</hdop>
+				<ageofdgpsdata>1.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182325" lat="52.401779535">
+				<ele>66.712</ele>
+				<time>2024-06-03T14:37:18.250Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.55</hdop>
+				<ageofdgpsdata>1.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.22518232" lat="52.401779555">
+				<ele>66.71</ele>
+				<time>2024-06-03T14:37:18.350Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.55</hdop>
+				<ageofdgpsdata>1.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182348333334" lat="52.401779565">
+				<ele>66.713</ele>
+				<time>2024-06-03T14:37:18.450Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.55</hdop>
+				<ageofdgpsdata>1.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182341666667" lat="52.40177954833333">
+				<ele>66.715</ele>
+				<time>2024-06-03T14:37:18.550Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.55</hdop>
+				<ageofdgpsdata>1.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182378333333" lat="52.401779555">
+				<ele>66.718</ele>
+				<time>2024-06-03T14:37:18.650Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.55</hdop>
+				<ageofdgpsdata>1.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182338333333" lat="52.40177953">
+				<ele>66.718</ele>
+				<time>2024-06-03T14:37:18.750Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.55</hdop>
+				<ageofdgpsdata>1.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182295" lat="52.401779528333336">
+				<ele>66.717</ele>
+				<time>2024-06-03T14:37:18.850Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.55</hdop>
+				<ageofdgpsdata>1.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182296666667" lat="52.401779526666665">
+				<ele>66.715</ele>
+				<time>2024-06-03T14:37:18.950Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.55</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182326666667" lat="52.40177954166667">
+				<ele>66.716</ele>
+				<time>2024-06-03T14:37:19.050Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.55</hdop>
+				<ageofdgpsdata>2.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182321666667" lat="52.40177952333333">
+				<ele>66.714</ele>
+				<time>2024-06-03T14:37:19.150Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.55</hdop>
+				<ageofdgpsdata>2.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182308333334" lat="52.40177953833334">
+				<ele>66.711</ele>
+				<time>2024-06-03T14:37:19.250Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.55</hdop>
+				<ageofdgpsdata>2.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182333333333" lat="52.401779553333334">
+				<ele>66.71</ele>
+				<time>2024-06-03T14:37:19.350Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.55</hdop>
+				<ageofdgpsdata>2.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182333333333" lat="52.401779563333335">
+				<ele>66.71</ele>
+				<time>2024-06-03T14:37:19.450Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.55</hdop>
+				<ageofdgpsdata>1.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182365" lat="52.401779525">
+				<ele>66.709</ele>
+				<time>2024-06-03T14:37:19.550Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.55</hdop>
+				<ageofdgpsdata>1.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182365" lat="52.401779551666664">
+				<ele>66.709</ele>
+				<time>2024-06-03T14:37:19.650Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.55</hdop>
+				<ageofdgpsdata>1.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.22518238" lat="52.40177959333333">
+				<ele>66.71</ele>
+				<time>2024-06-03T14:37:19.750Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.55</hdop>
+				<ageofdgpsdata>1.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182358333333" lat="52.40177954333333">
+				<ele>66.708</ele>
+				<time>2024-06-03T14:37:19.850Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.55</hdop>
+				<ageofdgpsdata>1.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182323333334" lat="52.401779535">
+				<ele>66.711</ele>
+				<time>2024-06-03T14:37:19.950Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.55</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.22518238" lat="52.40177955833333">
+				<ele>66.708</ele>
+				<time>2024-06-03T14:37:20.050Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.55</hdop>
+				<ageofdgpsdata>1.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182343333334" lat="52.401779526666665">
+				<ele>66.709</ele>
+				<time>2024-06-03T14:37:20.150Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.55</hdop>
+				<ageofdgpsdata>1.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182353333333" lat="52.401779555">
+				<ele>66.713</ele>
+				<time>2024-06-03T14:37:20.250Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.55</hdop>
+				<ageofdgpsdata>1.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182368333334" lat="52.401779565">
+				<ele>66.713</ele>
+				<time>2024-06-03T14:37:20.350Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.55</hdop>
+				<ageofdgpsdata>1.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.22518241" lat="52.40177956666667">
+				<ele>66.711</ele>
+				<time>2024-06-03T14:37:20.450Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182405" lat="52.401779553333334">
+				<ele>66.71</ele>
+				<time>2024-06-03T14:37:20.550Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182403333333" lat="52.401779563333335">
+				<ele>66.709</ele>
+				<time>2024-06-03T14:37:20.650Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182413333334" lat="52.40177955666667">
+				<ele>66.708</ele>
+				<time>2024-06-03T14:37:20.750Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182403333333" lat="52.401779565">
+				<ele>66.705</ele>
+				<time>2024-06-03T14:37:20.850Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182428333333" lat="52.4017796">
+				<ele>66.705</ele>
+				<time>2024-06-03T14:37:20.950Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182431666667" lat="52.401779563333335">
+				<ele>66.71</ele>
+				<time>2024-06-03T14:37:21.100Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182421666666" lat="52.40177960166667">
+				<ele>66.715</ele>
+				<time>2024-06-03T14:37:21.200Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182391666667" lat="52.40177960333333">
+				<ele>66.713</ele>
+				<time>2024-06-03T14:37:21.300Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182416666666" lat="52.401779608333335">
+				<ele>66.712</ele>
+				<time>2024-06-03T14:37:21.400Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182361666667" lat="52.4017796">
+				<ele>66.711</ele>
+				<time>2024-06-03T14:37:21.500Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182356666666" lat="52.401779595">
+				<ele>66.713</ele>
+				<time>2024-06-03T14:37:21.600Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182395" lat="52.40177961">
+				<ele>66.713</ele>
+				<time>2024-06-03T14:37:21.700Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182348333334" lat="52.401779608333335">
+				<ele>66.715</ele>
+				<time>2024-06-03T14:37:21.800Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.22518234" lat="52.40177960166667">
+				<ele>66.717</ele>
+				<time>2024-06-03T14:37:21.900Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182351666668" lat="52.401779605">
+				<ele>66.717</ele>
+				<time>2024-06-03T14:37:22.000Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182336666666" lat="52.401779581666666">
+				<ele>66.717</ele>
+				<time>2024-06-03T14:37:22.100Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182356666666" lat="52.401779605">
+				<ele>66.716</ele>
+				<time>2024-06-03T14:37:22.200Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182355" lat="52.40177959166667">
+				<ele>66.718</ele>
+				<time>2024-06-03T14:37:22.300Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.22518232" lat="52.40177957666667">
+				<ele>66.717</ele>
+				<time>2024-06-03T14:37:22.400Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182313333333" lat="52.40177956833333">
+				<ele>66.715</ele>
+				<time>2024-06-03T14:37:22.500Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182293333333" lat="52.40177955666667">
+				<ele>66.712</ele>
+				<time>2024-06-03T14:37:22.600Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182323333334" lat="52.401779615">
+				<ele>66.713</ele>
+				<time>2024-06-03T14:37:22.700Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182311666666" lat="52.40177959333333">
+				<ele>66.711</ele>
+				<time>2024-06-03T14:37:22.800Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182385" lat="52.40177954666667">
+				<ele>66.708</ele>
+				<time>2024-06-03T14:37:22.900Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182415" lat="52.40177955833333">
+				<ele>66.705</ele>
+				<time>2024-06-03T14:37:23.000Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182416666666" lat="52.40177954333333">
+				<ele>66.705</ele>
+				<time>2024-06-03T14:37:23.100Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182401666666" lat="52.401779553333334">
+				<ele>66.708</ele>
+				<time>2024-06-03T14:37:23.200Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182435" lat="52.401779551666664">
+				<ele>66.706</ele>
+				<time>2024-06-03T14:37:23.350Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182415" lat="52.40177956833333">
+				<ele>66.709</ele>
+				<time>2024-06-03T14:37:23.450Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182386666667" lat="52.401779565">
+				<ele>66.713</ele>
+				<time>2024-06-03T14:37:23.550Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182386666667" lat="52.401779545">
+				<ele>66.711</ele>
+				<time>2024-06-03T14:37:23.650Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182383333333" lat="52.40177952">
+				<ele>66.712</ele>
+				<time>2024-06-03T14:37:23.750Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182368333334" lat="52.40177952333333">
+				<ele>66.711</ele>
+				<time>2024-06-03T14:37:23.850Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182393333334" lat="52.40177952333333">
+				<ele>66.71</ele>
+				<time>2024-06-03T14:37:23.950Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182376666666" lat="52.40177954166667">
+				<ele>66.71</ele>
+				<time>2024-06-03T14:37:24.050Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182368333334" lat="52.40177954166667">
+				<ele>66.705</ele>
+				<time>2024-06-03T14:37:24.200Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182398333333" lat="52.401779571666665">
+				<ele>66.704</ele>
+				<time>2024-06-03T14:37:24.300Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182395" lat="52.40177955">
+				<ele>66.704</ele>
+				<time>2024-06-03T14:37:24.400Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182415" lat="52.401779563333335">
+				<ele>66.706</ele>
+				<time>2024-06-03T14:37:24.500Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182416666666" lat="52.401779561666665">
+				<ele>66.707</ele>
+				<time>2024-06-03T14:37:24.600Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182381666666" lat="52.40177955666667">
+				<ele>66.705</ele>
+				<time>2024-06-03T14:37:24.700Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182351666668" lat="52.40177957">
+				<ele>66.707</ele>
+				<time>2024-06-03T14:37:24.800Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182376666666" lat="52.40177956666667">
+				<ele>66.708</ele>
+				<time>2024-06-03T14:37:24.900Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182373333332" lat="52.401779563333335">
+				<ele>66.709</ele>
+				<time>2024-06-03T14:37:25.000Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182345" lat="52.401779561666665">
+				<ele>66.706</ele>
+				<time>2024-06-03T14:37:25.100Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182365" lat="52.40177953333333">
+				<ele>66.705</ele>
+				<time>2024-06-03T14:37:25.200Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182355" lat="52.40177951333333">
+				<ele>66.705</ele>
+				<time>2024-06-03T14:37:25.300Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182331666666" lat="52.401779518333335">
+				<ele>66.708</ele>
+				<time>2024-06-03T14:37:25.400Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.22518234" lat="52.40177953166667">
+				<ele>66.705</ele>
+				<time>2024-06-03T14:37:25.500Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182333333333" lat="52.401779563333335">
+				<ele>66.709</ele>
+				<time>2024-06-03T14:37:25.600Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182335" lat="52.401779545">
+				<ele>66.708</ele>
+				<time>2024-06-03T14:37:25.700Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182326666667" lat="52.401779535">
+				<ele>66.706</ele>
+				<time>2024-06-03T14:37:25.800Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.2251823" lat="52.40177952333333">
+				<ele>66.704</ele>
+				<time>2024-06-03T14:37:25.900Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182313333333" lat="52.401779551666664">
+				<ele>66.701</ele>
+				<time>2024-06-03T14:37:26.000Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.2251823" lat="52.401779528333336">
+				<ele>66.7</ele>
+				<time>2024-06-03T14:37:26.100Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.22518231" lat="52.401779516666664">
+				<ele>66.702</ele>
+				<time>2024-06-03T14:37:26.200Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182301666667" lat="52.40177953">
+				<ele>66.699</ele>
+				<time>2024-06-03T14:37:26.300Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182323333334" lat="52.40177953166667">
+				<ele>66.702</ele>
+				<time>2024-06-03T14:37:26.400Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182331666666" lat="52.401779515">
+				<ele>66.701</ele>
+				<time>2024-06-03T14:37:26.500Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182373333332" lat="52.40177951333333">
+				<ele>66.703</ele>
+				<time>2024-06-03T14:37:26.600Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182361666667" lat="52.401779551666664">
+				<ele>66.704</ele>
+				<time>2024-06-03T14:37:26.700Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182329999999" lat="52.401779536666666">
+				<ele>66.702</ele>
+				<time>2024-06-03T14:37:26.800Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182333333333" lat="52.40177954833333">
+				<ele>66.7</ele>
+				<time>2024-06-03T14:37:26.900Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182345" lat="52.401779535">
+				<ele>66.697</ele>
+				<time>2024-06-03T14:37:27.000Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182321666667" lat="52.401779508333334">
+				<ele>66.7</ele>
+				<time>2024-06-03T14:37:27.100Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182306666667" lat="52.4017795">
+				<ele>66.699</ele>
+				<time>2024-06-03T14:37:27.200Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182303333334" lat="52.401779528333336">
+				<ele>66.698</ele>
+				<time>2024-06-03T14:37:27.300Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182276666667" lat="52.401779526666665">
+				<ele>66.7</ele>
+				<time>2024-06-03T14:37:27.400Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182313333333" lat="52.40177954666667">
+				<ele>66.699</ele>
+				<time>2024-06-03T14:37:27.500Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182325" lat="52.40177953333333">
+				<ele>66.7</ele>
+				<time>2024-06-03T14:37:27.600Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182328333334" lat="52.40177953166667">
+				<ele>66.698</ele>
+				<time>2024-06-03T14:37:27.700Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182296666667" lat="52.40177954833333">
+				<ele>66.696</ele>
+				<time>2024-06-03T14:37:27.800Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182298333333" lat="52.40177955">
+				<ele>66.698</ele>
+				<time>2024-06-03T14:37:27.900Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182301666667" lat="52.401779516666664">
+				<ele>66.698</ele>
+				<time>2024-06-03T14:37:28.000Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.2251823" lat="52.401779493333336">
+				<ele>66.698</ele>
+				<time>2024-06-03T14:37:28.150Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182321666667" lat="52.401779518333335">
+				<ele>66.698</ele>
+				<time>2024-06-03T14:37:28.250Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182276666667" lat="52.401779536666666">
+				<ele>66.699</ele>
+				<time>2024-06-03T14:37:28.350Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182308333334" lat="52.40177955">
+				<ele>66.698</ele>
+				<time>2024-06-03T14:37:28.450Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182291666666" lat="52.401779515">
+				<ele>66.699</ele>
+				<time>2024-06-03T14:37:28.550Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182295" lat="52.401779528333336">
+				<ele>66.701</ele>
+				<time>2024-06-03T14:37:28.650Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182298333333" lat="52.401779516666664">
+				<ele>66.697</ele>
+				<time>2024-06-03T14:37:28.750Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182295" lat="52.40177955">
+				<ele>66.697</ele>
+				<time>2024-06-03T14:37:28.850Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182336666666" lat="52.401779528333336">
+				<ele>66.697</ele>
+				<time>2024-06-03T14:37:28.950Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182341666667" lat="52.40177954666667">
+				<ele>66.697</ele>
+				<time>2024-06-03T14:37:29.050Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182358333333" lat="52.40177954666667">
+				<ele>66.697</ele>
+				<time>2024-06-03T14:37:29.150Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182356666666" lat="52.40177951166667">
+				<ele>66.7</ele>
+				<time>2024-06-03T14:37:29.250Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182351666668" lat="52.40177952333333">
+				<ele>66.7</ele>
+				<time>2024-06-03T14:37:29.350Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182395" lat="52.40177953333333">
+				<ele>66.703</ele>
+				<time>2024-06-03T14:37:29.450Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182363333333" lat="52.40177952333333">
+				<ele>66.701</ele>
+				<time>2024-06-03T14:37:29.550Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.22518235" lat="52.401779508333334">
+				<ele>66.7</ele>
+				<time>2024-06-03T14:37:29.650Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182373333332" lat="52.401779561666665">
+				<ele>66.701</ele>
+				<time>2024-06-03T14:37:29.750Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182363333333" lat="52.40177954833333">
+				<ele>66.702</ele>
+				<time>2024-06-03T14:37:29.850Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182356666666" lat="52.40177952333333">
+				<ele>66.703</ele>
+				<time>2024-06-03T14:37:29.950Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182371666667" lat="52.40177955833333">
+				<ele>66.704</ele>
+				<time>2024-06-03T14:37:30.050Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182361666667" lat="52.401779575">
+				<ele>66.702</ele>
+				<time>2024-06-03T14:37:30.150Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182341666667" lat="52.40177955">
+				<ele>66.701</ele>
+				<time>2024-06-03T14:37:30.250Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182336666666" lat="52.40177955833333">
+				<ele>66.699</ele>
+				<time>2024-06-03T14:37:30.350Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182329999999" lat="52.401779575">
+				<ele>66.7</ele>
+				<time>2024-06-03T14:37:30.450Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182388333334" lat="52.401779596666664">
+				<ele>66.706</ele>
+				<time>2024-06-03T14:37:30.550Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.22518239" lat="52.401779633333334">
+				<ele>66.705</ele>
+				<time>2024-06-03T14:37:30.650Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182346666667" lat="52.401779618333336">
+				<ele>66.707</ele>
+				<time>2024-06-03T14:37:30.750Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182383333333" lat="52.40177965">
+				<ele>66.705</ele>
+				<time>2024-06-03T14:37:30.850Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182381666666" lat="52.401779625">
+				<ele>66.706</ele>
+				<time>2024-06-03T14:37:30.950Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182355" lat="52.4017796">
+				<ele>66.702</ele>
+				<time>2024-06-03T14:37:31.050Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182361666667" lat="52.401779571666665">
+				<ele>66.702</ele>
+				<time>2024-06-03T14:37:31.150Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182351666668" lat="52.40177958666666">
+				<ele>66.702</ele>
+				<time>2024-06-03T14:37:31.250Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182343333334" lat="52.40177962333333">
+				<ele>66.701</ele>
+				<time>2024-06-03T14:37:31.350Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225182396666666" lat="52.401779625">
+				<ele>66.703</ele>
+				<time>2024-06-03T14:37:31.450Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225184975" lat="52.40177920833333">
+				<ele>66.934</ele>
+				<time>2024-06-03T14:37:31.550Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225184941666667" lat="52.40177921833333">
+				<ele>66.935</ele>
+				<time>2024-06-03T14:37:31.650Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.22518495" lat="52.401779221666665">
+				<ele>66.938</ele>
+				<time>2024-06-03T14:37:31.750Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225184971666666" lat="52.40177924333333">
+				<ele>66.937</ele>
+				<time>2024-06-03T14:37:31.850Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.22518496" lat="52.40177919333333">
+				<ele>66.932</ele>
+				<time>2024-06-03T14:37:31.950Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>3.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225184968333334" lat="52.40177918166667">
+				<ele>66.936</ele>
+				<time>2024-06-03T14:37:32.050Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>3.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225184991666667" lat="52.401779213333334">
+				<ele>66.933</ele>
+				<time>2024-06-03T14:37:32.150Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>3.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225184981666667" lat="52.401779205">
+				<ele>66.933</ele>
+				<time>2024-06-03T14:37:32.250Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>3.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225184998333333" lat="52.401779205">
+				<ele>66.936</ele>
+				<time>2024-06-03T14:37:32.350Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>3.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225184983333333" lat="52.401779215">
+				<ele>66.935</ele>
+				<time>2024-06-03T14:37:32.450Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>3.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225184981666667" lat="52.401779188333336">
+				<ele>66.932</ele>
+				<time>2024-06-03T14:37:32.550Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>3.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225185005" lat="52.40177918">
+				<ele>66.934</ele>
+				<time>2024-06-03T14:37:32.650Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>3.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225184998333333" lat="52.40177918166667">
+				<ele>66.936</ele>
+				<time>2024-06-03T14:37:32.750Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>3.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225184955" lat="52.401779175">
+				<ele>66.936</ele>
+				<time>2024-06-03T14:37:32.850Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>3.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225184951666666" lat="52.401779203333334">
+				<ele>66.94</ele>
+				<time>2024-06-03T14:37:32.950Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>4.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225184928333332" lat="52.40177921">
+				<ele>66.938</ele>
+				<time>2024-06-03T14:37:33.050Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>4.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225184995" lat="52.4017792">
+				<ele>66.929</ele>
+				<time>2024-06-03T14:37:33.200Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>3.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225185058333333" lat="52.40177921666667">
+				<ele>66.928</ele>
+				<time>2024-06-03T14:37:33.300Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>3.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225185203333334" lat="52.401779223333335">
+				<ele>66.929</ele>
+				<time>2024-06-03T14:37:33.400Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>3.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.22518531" lat="52.40177925166667">
+				<ele>66.927</ele>
+				<time>2024-06-03T14:37:33.500Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>3.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225185451666666" lat="52.40177928">
+				<ele>66.928</ele>
+				<time>2024-06-03T14:37:33.600Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.22518565" lat="52.401779305">
+				<ele>66.928</ele>
+				<time>2024-06-03T14:37:33.700Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225185853333333" lat="52.40177937333333">
+				<ele>66.928</ele>
+				<time>2024-06-03T14:37:33.800Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225186145" lat="52.401779418333334">
+				<ele>66.935</ele>
+				<time>2024-06-03T14:37:33.900Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225186485" lat="52.401779483333335">
+				<ele>66.934</ele>
+				<time>2024-06-03T14:37:34.000Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>3.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225187013333333" lat="52.40177953166667">
+				<ele>66.934</ele>
+				<time>2024-06-03T14:37:34.150Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>3.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225187628333334" lat="52.40177964833333">
+				<ele>66.933</ele>
+				<time>2024-06-03T14:37:34.250Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>3.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225188526666667" lat="52.40177975">
+				<ele>66.937</ele>
+				<time>2024-06-03T14:37:34.350Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>3.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.22518996" lat="52.40177998833333">
+				<ele>66.941</ele>
+				<time>2024-06-03T14:37:34.450Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>3.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225191965" lat="52.40178034">
+				<ele>66.944</ele>
+				<time>2024-06-03T14:37:34.550Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>3.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225194728333333" lat="52.40178082166667">
+				<ele>66.947</ele>
+				<time>2024-06-03T14:37:34.650Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>3.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225198118333333" lat="52.401781408333335">
+				<ele>66.954</ele>
+				<time>2024-06-03T14:37:34.750Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>3.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225202063333333" lat="52.40178214">
+				<ele>66.961</ele>
+				<time>2024-06-03T14:37:34.850Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225206585" lat="52.401782911666665">
+				<ele>66.969</ele>
+				<time>2024-06-03T14:37:34.950Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>3.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225211563333334" lat="52.40178378833333">
+				<ele>66.974</ele>
+				<time>2024-06-03T14:37:35.050Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>3.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225216891666667" lat="52.401784733333336">
+				<ele>66.981</ele>
+				<time>2024-06-03T14:37:35.150Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>3.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225222438333333" lat="52.40178569166667">
+				<ele>66.985</ele>
+				<time>2024-06-03T14:37:35.250Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>3.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225228171666666" lat="52.40178665166667">
+				<ele>66.988</ele>
+				<time>2024-06-03T14:37:35.350Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225233976666667" lat="52.401787676666665">
+				<ele>66.995</ele>
+				<time>2024-06-03T14:37:35.450Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225239916666666" lat="52.40178868666667">
+				<ele>67.001</ele>
+				<time>2024-06-03T14:37:35.550Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225245883333333" lat="52.40178974333333">
+				<ele>67.008</ele>
+				<time>2024-06-03T14:37:35.650Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225252013333334" lat="52.401790823333336">
+				<ele>67.016</ele>
+				<time>2024-06-03T14:37:35.750Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225258381666666" lat="52.40179197">
+				<ele>67.024</ele>
+				<time>2024-06-03T14:37:35.850Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225264996666667" lat="52.401793178333335">
+				<ele>67.034</ele>
+				<time>2024-06-03T14:37:35.950Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>3.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225272066666667" lat="52.401794403333334">
+				<ele>67.043</ele>
+				<time>2024-06-03T14:37:36.050Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>3.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.22527944" lat="52.40179568833334">
+				<ele>67.053</ele>
+				<time>2024-06-03T14:37:36.150Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>3.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225287106666666" lat="52.401797081666665">
+				<ele>67.062</ele>
+				<time>2024-06-03T14:37:36.250Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>3.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225294985" lat="52.40179848">
+				<ele>67.071</ele>
+				<time>2024-06-03T14:37:36.350Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>3.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225303108333334" lat="52.40179996333333">
+				<ele>67.076</ele>
+				<time>2024-06-03T14:37:36.450Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>3.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225311465" lat="52.40180146833333">
+				<ele>67.084</ele>
+				<time>2024-06-03T14:37:36.550Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>3.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225319961666667" lat="52.401802931666666">
+				<ele>67.094</ele>
+				<time>2024-06-03T14:37:36.650Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>3.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.22532862" lat="52.40180446">
+				<ele>67.098</ele>
+				<time>2024-06-03T14:37:36.750Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>3.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225337533333333" lat="52.40180607">
+				<ele>67.112</ele>
+				<time>2024-06-03T14:37:36.850Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>3.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225346518333334" lat="52.401807653333336">
+				<ele>67.119</ele>
+				<time>2024-06-03T14:37:36.950Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>3.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.22535573" lat="52.401809271666664">
+				<ele>67.126</ele>
+				<time>2024-06-03T14:37:37.050Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>3.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225365105" lat="52.401810945">
+				<ele>67.134</ele>
+				<time>2024-06-03T14:37:37.150Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>3.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225374641666667" lat="52.401812605">
+				<ele>67.141</ele>
+				<time>2024-06-03T14:37:37.250Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225384235" lat="52.40181430333333">
+				<ele>67.15</ele>
+				<time>2024-06-03T14:37:37.350Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225393998333333" lat="52.40181601">
+				<ele>67.161</ele>
+				<time>2024-06-03T14:37:37.450Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225403871666666" lat="52.401817718333334">
+				<ele>67.17</ele>
+				<time>2024-06-03T14:37:37.550Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225413831666666" lat="52.40181941833333">
+				<ele>67.184</ele>
+				<time>2024-06-03T14:37:37.650Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225423921666666" lat="52.401821141666666">
+				<ele>67.195</ele>
+				<time>2024-06-03T14:37:37.750Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.22543414" lat="52.401822945">
+				<ele>67.209</ele>
+				<time>2024-06-03T14:37:37.850Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225444551666667" lat="52.40182475">
+				<ele>67.222</ele>
+				<time>2024-06-03T14:37:37.950Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>3.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225460391666667" lat="52.40182749">
+				<ele>67.244</ele>
+				<time>2024-06-03T14:37:38.100Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>3.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225476603333334" lat="52.40183028333333">
+				<ele>67.261</ele>
+				<time>2024-06-03T14:37:38.250Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225487668333333" lat="52.401832176666666">
+				<ele>67.271</ele>
+				<time>2024-06-03T14:37:38.350Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225498913333332" lat="52.40183408666667">
+				<ele>67.28</ele>
+				<time>2024-06-03T14:37:38.450Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225510343333333" lat="52.401836018333334">
+				<ele>67.294</ele>
+				<time>2024-06-03T14:37:38.550Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225521986666667" lat="52.40183798333333">
+				<ele>67.303</ele>
+				<time>2024-06-03T14:37:38.650Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225539838333333" lat="52.40184106666667">
+				<ele>67.32</ele>
+				<time>2024-06-03T14:37:38.800Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225558113333333" lat="52.40184423833333">
+				<ele>67.341</ele>
+				<time>2024-06-03T14:37:38.950Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225576825" lat="52.40184749">
+				<ele>67.358</ele>
+				<time>2024-06-03T14:37:39.100Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.22558961" lat="52.401849733333336">
+				<ele>67.373</ele>
+				<time>2024-06-03T14:37:39.200Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.22560275" lat="52.40185202333333">
+				<ele>67.387</ele>
+				<time>2024-06-03T14:37:39.300Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225622978333334" lat="52.40185554833333">
+				<ele>67.412</ele>
+				<time>2024-06-03T14:37:39.450Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.22564393" lat="52.40185927666667">
+				<ele>67.437</ele>
+				<time>2024-06-03T14:37:39.600Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225665675" lat="52.401863176666666">
+				<ele>67.461</ele>
+				<time>2024-06-03T14:37:39.750Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.2256879" lat="52.401867198333335">
+				<ele>67.488</ele>
+				<time>2024-06-03T14:37:39.900Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225710631666667" lat="52.40187135">
+				<ele>67.509</ele>
+				<time>2024-06-03T14:37:40.050Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225733963333333" lat="52.401875595">
+				<ele>67.537</ele>
+				<time>2024-06-03T14:37:40.200Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225757905" lat="52.40187984666667">
+				<ele>67.572</ele>
+				<time>2024-06-03T14:37:40.350Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.22577415" lat="52.4018827">
+				<ele>67.589</ele>
+				<time>2024-06-03T14:37:40.450Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225790673333334" lat="52.401885586666666">
+				<ele>67.607</ele>
+				<time>2024-06-03T14:37:40.550Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225807526666667" lat="52.401888515">
+				<ele>67.628</ele>
+				<time>2024-06-03T14:37:40.650Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.2258333" lat="52.40189299666667">
+				<ele>67.655</ele>
+				<time>2024-06-03T14:37:40.800Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225850921666666" lat="52.401896046666664">
+				<ele>67.675</ele>
+				<time>2024-06-03T14:37:40.900Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225868801666667" lat="52.40189911666667">
+				<ele>67.693</ele>
+				<time>2024-06-03T14:37:41.000Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>3.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225895905" lat="52.401903833333336">
+				<ele>67.72</ele>
+				<time>2024-06-03T14:37:41.150Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>3.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225923405" lat="52.40190861333333">
+				<ele>67.751</ele>
+				<time>2024-06-03T14:37:41.300Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225951156666667" lat="52.401913415">
+				<ele>67.775</ele>
+				<time>2024-06-03T14:37:41.450Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.225978961666666" lat="52.40191820166667">
+				<ele>67.804</ele>
+				<time>2024-06-03T14:37:41.600Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.226006863333334" lat="52.401923025">
+				<ele>67.827</ele>
+				<time>2024-06-03T14:37:41.750Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.226034816666667" lat="52.40192784333333">
+				<ele>67.859</ele>
+				<time>2024-06-03T14:37:41.900Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.226062846666666" lat="52.401932675">
+				<ele>67.883</ele>
+				<time>2024-06-03T14:37:42.050Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.22609104" lat="52.401937525">
+				<ele>67.914</ele>
+				<time>2024-06-03T14:37:42.200Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.22611924" lat="52.40194242166667">
+				<ele>67.943</ele>
+				<time>2024-06-03T14:37:42.350Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.22614748" lat="52.401947381666666">
+				<ele>67.976</ele>
+				<time>2024-06-03T14:37:42.500Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.226175841666667" lat="52.401952386666665">
+				<ele>68.01</ele>
+				<time>2024-06-03T14:37:42.650Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.22619474" lat="52.40195574">
+				<ele>68.023</ele>
+				<time>2024-06-03T14:37:42.750Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.226213721666667" lat="52.40195915666666">
+				<ele>68.039</ele>
+				<time>2024-06-03T14:37:42.850Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.226232646666666" lat="52.40196253">
+				<ele>68.054</ele>
+				<time>2024-06-03T14:37:42.950Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>3.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.226261281666666" lat="52.40196766">
+				<ele>68.086</ele>
+				<time>2024-06-03T14:37:43.100Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>3.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.226290103333334" lat="52.40197283">
+				<ele>68.119</ele>
+				<time>2024-06-03T14:37:43.250Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.226319186666666" lat="52.401978146666664">
+				<ele>68.15</ele>
+				<time>2024-06-03T14:37:43.400Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.226348535" lat="52.40198348166667">
+				<ele>68.174</ele>
+				<time>2024-06-03T14:37:43.550Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.226378125" lat="52.40198891666667">
+				<ele>68.203</ele>
+				<time>2024-06-03T14:37:43.700Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.226408063333333" lat="52.40199436666666">
+				<ele>68.221</ele>
+				<time>2024-06-03T14:37:43.850Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.22643826" lat="52.401999876666665">
+				<ele>68.25</ele>
+				<time>2024-06-03T14:37:44.000Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.226468636666667" lat="52.40200541666667">
+				<ele>68.275</ele>
+				<time>2024-06-03T14:37:44.150Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.226499345" lat="52.40201098166666">
+				<ele>68.299</ele>
+				<time>2024-06-03T14:37:44.300Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.226530228333333" lat="52.402016581666665">
+				<ele>68.322</ele>
+				<time>2024-06-03T14:37:44.450Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.22656111" lat="52.40202215">
+				<ele>68.346</ele>
+				<time>2024-06-03T14:37:44.600Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.226592055" lat="52.40202768">
+				<ele>68.367</ele>
+				<time>2024-06-03T14:37:44.750Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.226623088333334" lat="52.40203326">
+				<ele>68.398</ele>
+				<time>2024-06-03T14:37:44.900Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.226654133333334" lat="52.40203891">
+				<ele>68.423</ele>
+				<time>2024-06-03T14:37:45.050Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.22668508" lat="52.40204453166667">
+				<ele>68.45</ele>
+				<time>2024-06-03T14:37:45.200Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.22671602" lat="52.402050095">
+				<ele>68.48</ele>
+				<time>2024-06-03T14:37:45.350Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.226746853333333" lat="52.402055645">
+				<ele>68.503</ele>
+				<time>2024-06-03T14:37:45.500Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.226777608333334" lat="52.402061171666666">
+				<ele>68.527</ele>
+				<time>2024-06-03T14:37:45.650Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.226808248333333" lat="52.402066633333334">
+				<ele>68.547</ele>
+				<time>2024-06-03T14:37:45.800Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.226838728333334" lat="52.402072071666666">
+				<ele>68.575</ele>
+				<time>2024-06-03T14:37:45.950Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.226869151666667" lat="52.40207744833333">
+				<ele>68.602</ele>
+				<time>2024-06-03T14:37:46.100Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.226899416666667" lat="52.40208285333333">
+				<ele>68.624</ele>
+				<time>2024-06-03T14:37:46.250Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.226929583333334" lat="52.402088166666665">
+				<ele>68.647</ele>
+				<time>2024-06-03T14:37:46.400Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.226959526666667" lat="52.402093455">
+				<ele>68.672</ele>
+				<time>2024-06-03T14:37:46.550Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.226989448333333" lat="52.40209873333333">
+				<ele>68.702</ele>
+				<time>2024-06-03T14:37:46.700Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.227019251666666" lat="52.40210405">
+				<ele>68.722</ele>
+				<time>2024-06-03T14:37:46.850Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.227048903333333" lat="52.402109225">
+				<ele>68.75</ele>
+				<time>2024-06-03T14:37:47.000Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.227078351666666" lat="52.40211443333333">
+				<ele>68.775</ele>
+				<time>2024-06-03T14:37:47.150Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.227107746666666" lat="52.402119723333335">
+				<ele>68.804</ele>
+				<time>2024-06-03T14:37:47.300Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.227136988333333" lat="52.402124915">
+				<ele>68.823</ele>
+				<time>2024-06-03T14:37:47.450Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.227166041666667" lat="52.402130033333336">
+				<ele>68.84</ele>
+				<time>2024-06-03T14:37:47.600Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.227195026666667" lat="52.402135206666664">
+				<ele>68.867</ele>
+				<time>2024-06-03T14:37:47.750Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.227223858333334" lat="52.402140411666664">
+				<ele>68.889</ele>
+				<time>2024-06-03T14:37:47.900Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.227252585" lat="52.40214559166667">
+				<ele>68.915</ele>
+				<time>2024-06-03T14:37:48.050Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.227281408333333" lat="52.4021507">
+				<ele>68.94</ele>
+				<time>2024-06-03T14:37:48.200Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.227310116666667" lat="52.40215579">
+				<ele>68.965</ele>
+				<time>2024-06-03T14:37:48.350Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.2273388" lat="52.402160885">
+				<ele>68.991</ele>
+				<time>2024-06-03T14:37:48.500Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.227367418333333" lat="52.402165995">
+				<ele>69.015</ele>
+				<time>2024-06-03T14:37:48.650Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.227396061666667" lat="52.402171116666665">
+				<ele>69.041</ele>
+				<time>2024-06-03T14:37:48.800Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.227424618333334" lat="52.40217613833333">
+				<ele>69.063</ele>
+				<time>2024-06-03T14:37:48.950Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.227453165" lat="52.40218117333333">
+				<ele>69.091</ele>
+				<time>2024-06-03T14:37:49.100Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.227481811666667" lat="52.40218616">
+				<ele>69.116</ele>
+				<time>2024-06-03T14:37:49.250Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.227510346666667" lat="52.4021912">
+				<ele>69.137</ele>
+				<time>2024-06-03T14:37:49.400Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.227538841666666" lat="52.402196208333336">
+				<ele>69.156</ele>
+				<time>2024-06-03T14:37:49.550Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.22756731" lat="52.40220121666667">
+				<ele>69.179</ele>
+				<time>2024-06-03T14:37:49.700Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.22759574" lat="52.402206203333336">
+				<ele>69.198</ele>
+				<time>2024-06-03T14:37:49.850Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.22762415" lat="52.40221116833333">
+				<ele>69.22</ele>
+				<time>2024-06-03T14:37:50.000Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.227652556666667" lat="52.40221622166667">
+				<ele>69.248</ele>
+				<time>2024-06-03T14:37:50.150Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.227680903333333" lat="52.402221221666665">
+				<ele>69.266</ele>
+				<time>2024-06-03T14:37:50.300Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.227709145" lat="52.40222622333334">
+				<ele>69.288</ele>
+				<time>2024-06-03T14:37:50.450Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.22773744" lat="52.40223119666667">
+				<ele>69.306</ele>
+				<time>2024-06-03T14:37:50.600Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.227765713333334" lat="52.402236263333336">
+				<ele>69.333</ele>
+				<time>2024-06-03T14:37:50.750Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.227784441666667" lat="52.402239556666665">
+				<ele>69.348</ele>
+				<time>2024-06-03T14:37:50.850Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.227803235" lat="52.40224290166667">
+				<ele>69.365</ele>
+				<time>2024-06-03T14:37:50.950Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.227831471666667" lat="52.40224792833333">
+				<ele>69.392</ele>
+				<time>2024-06-03T14:37:51.100Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.22785962" lat="52.402252886666666">
+				<ele>69.415</ele>
+				<time>2024-06-03T14:37:51.250Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.227878423333333" lat="52.402256225">
+				<ele>69.428</ele>
+				<time>2024-06-03T14:37:51.350Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.227897301666667" lat="52.40225951666667">
+				<ele>69.442</ele>
+				<time>2024-06-03T14:37:51.450Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.227925618333334" lat="52.402264523333336">
+				<ele>69.468</ele>
+				<time>2024-06-03T14:37:51.600Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.227944493333334" lat="52.4022678">
+				<ele>69.483</ele>
+				<time>2024-06-03T14:37:51.700Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.227963408333334" lat="52.402271125">
+				<ele>69.503</ele>
+				<time>2024-06-03T14:37:51.800Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.227991865" lat="52.40227612333333">
+				<ele>69.526</ele>
+				<time>2024-06-03T14:37:51.950Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.228020391666666" lat="52.40228114">
+				<ele>69.551</ele>
+				<time>2024-06-03T14:37:52.100Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.228049053333333" lat="52.402286195">
+				<ele>69.572</ele>
+				<time>2024-06-03T14:37:52.250Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.228077773333334" lat="52.402291275">
+				<ele>69.594</ele>
+				<time>2024-06-03T14:37:52.400Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.228106645" lat="52.40229634166667">
+				<ele>69.62</ele>
+				<time>2024-06-03T14:37:52.550Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.228135551666666" lat="52.402301435">
+				<ele>69.642</ele>
+				<time>2024-06-03T14:37:52.700Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.228164591666667" lat="52.402306593333336">
+				<ele>69.671</ele>
+				<time>2024-06-03T14:37:52.850Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.228193728333334" lat="52.402311755">
+				<ele>69.694</ele>
+				<time>2024-06-03T14:37:53.000Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.228222908333333" lat="52.40231695833333">
+				<ele>69.721</ele>
+				<time>2024-06-03T14:37:53.150Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.228252278333333" lat="52.402322248333334">
+				<ele>69.749</ele>
+				<time>2024-06-03T14:37:53.300Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.228281645" lat="52.40232750333333">
+				<ele>69.77</ele>
+				<time>2024-06-03T14:37:53.450Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.22830124" lat="52.40233097">
+				<ele>69.781</ele>
+				<time>2024-06-03T14:37:53.550Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.228320975" lat="52.402334503333336">
+				<ele>69.797</ele>
+				<time>2024-06-03T14:37:53.650Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.228340715" lat="52.40233805333333">
+				<ele>69.81</ele>
+				<time>2024-06-03T14:37:53.750Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.228370346666667" lat="52.402343355">
+				<ele>69.834</ele>
+				<time>2024-06-03T14:37:53.900Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.228400193333334" lat="52.402348661666664">
+				<ele>69.851</ele>
+				<time>2024-06-03T14:37:54.050Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.228430063333333" lat="52.402353981666664">
+				<ele>69.874</ele>
+				<time>2024-06-03T14:37:54.200Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.228460068333334" lat="52.40235931666667">
+				<ele>69.904</ele>
+				<time>2024-06-03T14:37:54.350Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.228490156666666" lat="52.40236469166667">
+				<ele>69.934</ele>
+				<time>2024-06-03T14:37:54.500Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.228510306666667" lat="52.40236823666667">
+				<ele>69.952</ele>
+				<time>2024-06-03T14:37:54.600Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.228530478333333" lat="52.40237184">
+				<ele>69.97</ele>
+				<time>2024-06-03T14:37:54.700Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.22855063" lat="52.402375398333334">
+				<ele>69.986</ele>
+				<time>2024-06-03T14:37:54.800Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.228581013333333" lat="52.40238070833333">
+				<ele>70.009</ele>
+				<time>2024-06-03T14:37:54.950Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.22861144" lat="52.40238609166666">
+				<ele>70.032</ele>
+				<time>2024-06-03T14:37:55.100Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.228641941666666" lat="52.40239149166667">
+				<ele>70.054</ele>
+				<time>2024-06-03T14:37:55.250Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.228662225" lat="52.402395095">
+				<ele>70.065</ele>
+				<time>2024-06-03T14:37:55.350Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.22868258" lat="52.40239871">
+				<ele>70.076</ele>
+				<time>2024-06-03T14:37:55.450Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.22870296" lat="52.40240230166667">
+				<ele>70.092</ele>
+				<time>2024-06-03T14:37:55.550Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.228733565" lat="52.40240772">
+				<ele>70.114</ele>
+				<time>2024-06-03T14:37:55.700Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.228753981666667" lat="52.40241135">
+				<ele>70.132</ele>
+				<time>2024-06-03T14:37:55.800Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.228784598333334" lat="52.40241679">
+				<ele>70.156</ele>
+				<time>2024-06-03T14:37:55.950Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.22881532" lat="52.402422265">
+				<ele>70.186</ele>
+				<time>2024-06-03T14:37:56.100Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.228845951666667" lat="52.40242772">
+				<ele>70.211</ele>
+				<time>2024-06-03T14:37:56.250Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.228866361666666" lat="52.40243138333334">
+				<ele>70.228</ele>
+				<time>2024-06-03T14:37:56.350Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.228896951666666" lat="52.40243686833333">
+				<ele>70.253</ele>
+				<time>2024-06-03T14:37:56.500Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.228917303333333" lat="52.40244052">
+				<ele>70.267</ele>
+				<time>2024-06-03T14:37:56.600Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.228947721666668" lat="52.402445973333336">
+				<ele>70.292</ele>
+				<time>2024-06-03T14:37:56.750Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.228967973333333" lat="52.40244961333333">
+				<ele>70.306</ele>
+				<time>2024-06-03T14:37:56.850Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.228988175" lat="52.402453295">
+				<ele>70.324</ele>
+				<time>2024-06-03T14:37:56.950Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.229018416666667" lat="52.402458755">
+				<ele>70.348</ele>
+				<time>2024-06-03T14:37:57.100Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.229038456666666" lat="52.40246238333334">
+				<ele>70.364</ele>
+				<time>2024-06-03T14:37:57.200Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.229068355" lat="52.402467825">
+				<ele>70.387</ele>
+				<time>2024-06-03T14:37:57.350Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.229098178333333" lat="52.402473235">
+				<ele>70.411</ele>
+				<time>2024-06-03T14:37:57.500Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.229127901666667" lat="52.40247868833333">
+				<ele>70.441</ele>
+				<time>2024-06-03T14:37:57.650Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.229157551666667" lat="52.402484055">
+				<ele>70.462</ele>
+				<time>2024-06-03T14:37:57.800Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.229187043333333" lat="52.40248948166666">
+				<ele>70.484</ele>
+				<time>2024-06-03T14:37:57.950Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.229216373333333" lat="52.40249487">
+				<ele>70.507</ele>
+				<time>2024-06-03T14:37:58.100Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.229245643333334" lat="52.40250017166667">
+				<ele>70.525</ele>
+				<time>2024-06-03T14:37:58.250Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.229274723333333" lat="52.40250546">
+				<ele>70.545</ele>
+				<time>2024-06-03T14:37:58.400Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.229303693333334" lat="52.40251072">
+				<ele>70.564</ele>
+				<time>2024-06-03T14:37:58.550Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.229332643333333" lat="52.402516033333335">
+				<ele>70.592</ele>
+				<time>2024-06-03T14:37:58.700Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.229361416666666" lat="52.402521281666665">
+				<ele>70.621</ele>
+				<time>2024-06-03T14:37:58.850Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.229390058333333" lat="52.40252639333333">
+				<ele>70.649</ele>
+				<time>2024-06-03T14:37:59.000Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.229418601666667" lat="52.40253151333334">
+				<ele>70.672</ele>
+				<time>2024-06-03T14:37:59.150Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.229447146666667" lat="52.402536565">
+				<ele>70.694</ele>
+				<time>2024-06-03T14:37:59.300Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.229475521666666" lat="52.40254162">
+				<ele>70.712</ele>
+				<time>2024-06-03T14:37:59.450Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.229503975" lat="52.402546585">
+				<ele>70.734</ele>
+				<time>2024-06-03T14:37:59.600Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.229532423333334" lat="52.40255156">
+				<ele>70.757</ele>
+				<time>2024-06-03T14:37:59.750Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.229560845" lat="52.40255649833333">
+				<ele>70.779</ele>
+				<time>2024-06-03T14:37:59.900Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.229589343333334" lat="52.402561505">
+				<ele>70.806</ele>
+				<time>2024-06-03T14:38:00.050Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.22961767" lat="52.402566461666666">
+				<ele>70.829</ele>
+				<time>2024-06-03T14:38:00.200Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.229646013333333" lat="52.402571413333334">
+				<ele>70.855</ele>
+				<time>2024-06-03T14:38:00.350Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.229674366666666" lat="52.402576385">
+				<ele>70.879</ele>
+				<time>2024-06-03T14:38:00.500Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.22970262" lat="52.402581428333335">
+				<ele>70.906</ele>
+				<time>2024-06-03T14:38:00.650Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.229730715" lat="52.402586345">
+				<ele>70.927</ele>
+				<time>2024-06-03T14:38:00.800Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.22975882" lat="52.4025913">
+				<ele>70.954</ele>
+				<time>2024-06-03T14:38:00.950Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.229786828333333" lat="52.40259627166667">
+				<ele>70.988</ele>
+				<time>2024-06-03T14:38:01.100Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.229814673333333" lat="52.402601175">
+				<ele>71.006</ele>
+				<time>2024-06-03T14:38:01.250Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.229842491666666" lat="52.40260605666667">
+				<ele>71.032</ele>
+				<time>2024-06-03T14:38:01.400Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.229861035" lat="52.40260936333333">
+				<ele>71.053</ele>
+				<time>2024-06-03T14:38:01.500Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.229888685" lat="52.40261422333333">
+				<ele>71.076</ele>
+				<time>2024-06-03T14:38:01.650Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.229907135" lat="52.402617496666664">
+				<ele>71.097</ele>
+				<time>2024-06-03T14:38:01.750Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.229925433333333" lat="52.402620713333334">
+				<ele>71.114</ele>
+				<time>2024-06-03T14:38:01.850Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.229952938333334" lat="52.402625565">
+				<ele>71.144</ele>
+				<time>2024-06-03T14:38:02.000Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>3.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.229980335" lat="52.402630411666664">
+				<ele>71.169</ele>
+				<time>2024-06-03T14:38:02.150Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>3.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.230007636666667" lat="52.40263519">
+				<ele>71.193</ele>
+				<time>2024-06-03T14:38:02.300Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>3.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.230035023333333" lat="52.402640015">
+				<ele>71.219</ele>
+				<time>2024-06-03T14:38:02.450Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>3.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.230053228333333" lat="52.40264317333333">
+				<ele>71.238</ele>
+				<time>2024-06-03T14:38:02.550Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>3.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.230071443333333" lat="52.40264636333333">
+				<ele>71.256</ele>
+				<time>2024-06-03T14:38:02.650Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>3.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.23008959" lat="52.40264955166667">
+				<ele>71.273</ele>
+				<time>2024-06-03T14:38:02.750Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>3.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.230116888333333" lat="52.40265433166667">
+				<ele>71.301</ele>
+				<time>2024-06-03T14:38:02.900Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>3.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.230144078333334" lat="52.402659165">
+				<ele>71.322</ele>
+				<time>2024-06-03T14:38:03.050Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>4.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.23017131" lat="52.402663958333335">
+				<ele>71.342</ele>
+				<time>2024-06-03T14:38:03.200Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>4.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.230198555" lat="52.402668813333335">
+				<ele>71.365</ele>
+				<time>2024-06-03T14:38:03.350Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>4.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.230225821666666" lat="52.40267363666667">
+				<ele>71.385</ele>
+				<time>2024-06-03T14:38:03.500Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>4.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.23025321" lat="52.402678488333336">
+				<ele>71.409</ele>
+				<time>2024-06-03T14:38:03.650Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>4.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.230280745" lat="52.40268335">
+				<ele>71.43</ele>
+				<time>2024-06-03T14:38:03.800Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>4.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.230308355" lat="52.40268827166667">
+				<ele>71.449</ele>
+				<time>2024-06-03T14:38:03.950Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>5.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.230336101666667" lat="52.40269316166667">
+				<ele>71.47</ele>
+				<time>2024-06-03T14:38:04.100Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>5.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.230363866666666" lat="52.40269800833333">
+				<ele>71.488</ele>
+				<time>2024-06-03T14:38:04.250Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>4.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.23039169" lat="52.40270295166667">
+				<ele>71.513</ele>
+				<time>2024-06-03T14:38:04.400Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>4.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.230419621666666" lat="52.402707883333335">
+				<ele>71.531</ele>
+				<time>2024-06-03T14:38:04.550Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>4.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.230447608333334" lat="52.40271287666667">
+				<ele>71.552</ele>
+				<time>2024-06-03T14:38:04.700Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>3.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.230475635" lat="52.402717816666666">
+				<ele>71.571</ele>
+				<time>2024-06-03T14:38:04.850Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.230503826666666" lat="52.402722743333335">
+				<ele>71.591</ele>
+				<time>2024-06-03T14:38:05.000Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>3.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.230531993333333" lat="52.40272770166667">
+				<ele>71.612</ele>
+				<time>2024-06-03T14:38:05.150Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.230560201666666" lat="52.402732648333334">
+				<ele>71.635</ele>
+				<time>2024-06-03T14:38:05.300Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.230588525" lat="52.402737635">
+				<ele>71.657</ele>
+				<time>2024-06-03T14:38:05.450Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.23061684" lat="52.40274266">
+				<ele>71.675</ele>
+				<time>2024-06-03T14:38:05.600Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.230645173333333" lat="52.40274761">
+				<ele>71.699</ele>
+				<time>2024-06-03T14:38:05.750Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.230673698333334" lat="52.402752613333334">
+				<ele>71.726</ele>
+				<time>2024-06-03T14:38:05.900Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.230702201666666" lat="52.40275760666667">
+				<ele>71.751</ele>
+				<time>2024-06-03T14:38:06.050Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.230730685" lat="52.402762655">
+				<ele>71.775</ele>
+				<time>2024-06-03T14:38:06.200Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.230759318333334" lat="52.40276774">
+				<ele>71.806</ele>
+				<time>2024-06-03T14:38:06.350Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.230787953333333" lat="52.402772785">
+				<ele>71.839</ele>
+				<time>2024-06-03T14:38:06.500Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.230816613333333" lat="52.40277784166667">
+				<ele>71.864</ele>
+				<time>2024-06-03T14:38:06.650Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.230845353333333" lat="52.40278297333333">
+				<ele>71.888</ele>
+				<time>2024-06-03T14:38:06.800Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.230874175" lat="52.40278803166667">
+				<ele>71.908</ele>
+				<time>2024-06-03T14:38:06.950Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.23090303" lat="52.402793151666664">
+				<ele>71.935</ele>
+				<time>2024-06-03T14:38:07.100Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.230931916666666" lat="52.402798250000004">
+				<ele>71.957</ele>
+				<time>2024-06-03T14:38:07.250Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.230960886666667" lat="52.402803438333336">
+				<ele>71.986</ele>
+				<time>2024-06-03T14:38:07.400Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.230989863333333" lat="52.402808623333335">
+				<ele>72.01</ele>
+				<time>2024-06-03T14:38:07.550Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.231018853333333" lat="52.402813785">
+				<ele>72.034</ele>
+				<time>2024-06-03T14:38:07.700Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.231047933333333" lat="52.40281898666667">
+				<ele>72.062</ele>
+				<time>2024-06-03T14:38:07.850Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.23106734" lat="52.40282242166667">
+				<ele>72.081</ele>
+				<time>2024-06-03T14:38:07.950Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.23109655" lat="52.40282760666667">
+				<ele>72.112</ele>
+				<time>2024-06-03T14:38:08.100Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.231125748333334" lat="52.40283284">
+				<ele>72.143</ele>
+				<time>2024-06-03T14:38:08.250Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.23114519" lat="52.40283633166667">
+				<ele>72.162</ele>
+				<time>2024-06-03T14:38:08.350Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.231174385" lat="52.402841638333335">
+				<ele>72.191</ele>
+				<time>2024-06-03T14:38:08.500Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.231193915" lat="52.40284509333333">
+				<ele>72.214</ele>
+				<time>2024-06-03T14:38:08.600Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.231223243333334" lat="52.402850351666665">
+				<ele>72.241</ele>
+				<time>2024-06-03T14:38:08.750Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.231242808333333" lat="52.40285384333333">
+				<ele>72.259</ele>
+				<time>2024-06-03T14:38:08.850Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.231262375" lat="52.40285731666667">
+				<ele>72.275</ele>
+				<time>2024-06-03T14:38:08.950Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.2312918" lat="52.40286247666667">
+				<ele>72.307</ele>
+				<time>2024-06-03T14:38:09.100Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.23131138" lat="52.402865955">
+				<ele>72.325</ele>
+				<time>2024-06-03T14:38:09.200Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.231340738333333" lat="52.402871135">
+				<ele>72.35</ele>
+				<time>2024-06-03T14:38:09.350Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.231360351666666" lat="52.40287457">
+				<ele>72.372</ele>
+				<time>2024-06-03T14:38:09.450Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.231379943333334" lat="52.40287802666667">
+				<ele>72.388</ele>
+				<time>2024-06-03T14:38:09.550Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.231399473333333" lat="52.40288140166667">
+				<ele>72.403</ele>
+				<time>2024-06-03T14:38:09.650Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.231428741666667" lat="52.402886435">
+				<ele>72.434</ele>
+				<time>2024-06-03T14:38:09.800Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.231458075" lat="52.402891385">
+				<ele>72.458</ele>
+				<time>2024-06-03T14:38:09.950Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.231487316666666" lat="52.40289629833333">
+				<ele>72.487</ele>
+				<time>2024-06-03T14:38:10.100Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.231516553333334" lat="52.40290117666667">
+				<ele>72.523</ele>
+				<time>2024-06-03T14:38:10.250Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.231535968333333" lat="52.40290439">
+				<ele>72.54</ele>
+				<time>2024-06-03T14:38:10.350Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.231555303333334" lat="52.40290761666667">
+				<ele>72.558</ele>
+				<time>2024-06-03T14:38:10.450Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.231584186666666" lat="52.402912468333334">
+				<ele>72.592</ele>
+				<time>2024-06-03T14:38:10.600Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.23160333" lat="52.402915735">
+				<ele>72.613</ele>
+				<time>2024-06-03T14:38:10.700Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.231631868333332" lat="52.40292054333333">
+				<ele>72.642</ele>
+				<time>2024-06-03T14:38:10.850Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.231660218333333" lat="52.40292543666666">
+				<ele>72.67</ele>
+				<time>2024-06-03T14:38:11.000Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.231688423333333" lat="52.402930211666664">
+				<ele>72.699</ele>
+				<time>2024-06-03T14:38:11.150Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.231716338333333" lat="52.402934978333334">
+				<ele>72.721</ele>
+				<time>2024-06-03T14:38:11.300Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.231743908333334" lat="52.40293972333333">
+				<ele>72.745</ele>
+				<time>2024-06-03T14:38:11.450Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.23176205" lat="52.402942835">
+				<ele>72.763</ele>
+				<time>2024-06-03T14:38:11.550Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.23177993" lat="52.402945925">
+				<ele>72.776</ele>
+				<time>2024-06-03T14:38:11.650Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.231797655" lat="52.40294897">
+				<ele>72.796</ele>
+				<time>2024-06-03T14:38:11.750Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.23181505" lat="52.40295199333333">
+				<ele>72.815</ele>
+				<time>2024-06-03T14:38:11.850Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.231832291666667" lat="52.402954986666664">
+				<ele>72.832</ele>
+				<time>2024-06-03T14:38:11.950Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.231857703333333" lat="52.40295941666667">
+				<ele>72.865</ele>
+				<time>2024-06-03T14:38:12.100Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.231882545" lat="52.40296374333333">
+				<ele>72.89</ele>
+				<time>2024-06-03T14:38:12.250Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.231898733333333" lat="52.40296658333333">
+				<ele>72.907</ele>
+				<time>2024-06-03T14:38:12.350Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.231922455" lat="52.402970763333336">
+				<ele>72.932</ele>
+				<time>2024-06-03T14:38:12.500Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.231945555" lat="52.402974735">
+				<ele>72.957</ele>
+				<time>2024-06-03T14:38:12.650Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.231968041666667" lat="52.402978641666664">
+				<ele>72.983</ele>
+				<time>2024-06-03T14:38:12.800Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.231989941666667" lat="52.402982445">
+				<ele>73.009</ele>
+				<time>2024-06-03T14:38:12.950Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232011081666666" lat="52.40298610666667">
+				<ele>73.032</ele>
+				<time>2024-06-03T14:38:13.100Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232031498333333" lat="52.402989766666664">
+				<ele>73.05</ele>
+				<time>2024-06-03T14:38:13.250Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232044746666666" lat="52.402992043333334">
+				<ele>73.066</ele>
+				<time>2024-06-03T14:38:13.350Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232057666666666" lat="52.402994326666665">
+				<ele>73.078</ele>
+				<time>2024-06-03T14:38:13.450Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232070303333334" lat="52.402996531666666">
+				<ele>73.088</ele>
+				<time>2024-06-03T14:38:13.550Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.23208858" lat="52.402999736666665">
+				<ele>73.111</ele>
+				<time>2024-06-03T14:38:13.700Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232106248333332" lat="52.403002855">
+				<ele>73.128</ele>
+				<time>2024-06-03T14:38:13.850Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232123291666667" lat="52.40300587833333">
+				<ele>73.153</ele>
+				<time>2024-06-03T14:38:14.000Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.23213985" lat="52.40300873166667">
+				<ele>73.168</ele>
+				<time>2024-06-03T14:38:14.150Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232155993333333" lat="52.403011578333334">
+				<ele>73.186</ele>
+				<time>2024-06-03T14:38:14.300Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232166513333333" lat="52.40301341166667">
+				<ele>73.194</ele>
+				<time>2024-06-03T14:38:14.400Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232176845" lat="52.40301517166667">
+				<ele>73.21</ele>
+				<time>2024-06-03T14:38:14.500Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.23218698" lat="52.403016915">
+				<ele>73.224</ele>
+				<time>2024-06-03T14:38:14.600Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232201748333333" lat="52.4030195">
+				<ele>73.24</ele>
+				<time>2024-06-03T14:38:14.750Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232216045" lat="52.403022085">
+				<ele>73.256</ele>
+				<time>2024-06-03T14:38:14.900Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232229863333334" lat="52.40302447">
+				<ele>73.272</ele>
+				<time>2024-06-03T14:38:15.050Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232243186666667" lat="52.403026841666666">
+				<ele>73.289</ele>
+				<time>2024-06-03T14:38:15.200Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.23225607" lat="52.40302909166667">
+				<ele>73.306</ele>
+				<time>2024-06-03T14:38:15.350Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232268563333333" lat="52.403031295">
+				<ele>73.322</ele>
+				<time>2024-06-03T14:38:15.500Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232280615" lat="52.4030334">
+				<ele>73.34</ele>
+				<time>2024-06-03T14:38:15.650Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.23229216" lat="52.403035446666664">
+				<ele>73.359</ele>
+				<time>2024-06-03T14:38:15.800Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232303236666667" lat="52.40303737">
+				<ele>73.372</ele>
+				<time>2024-06-03T14:38:15.950Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.23231379" lat="52.40303925333333">
+				<ele>73.385</ele>
+				<time>2024-06-03T14:38:16.100Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232323908333333" lat="52.403041035">
+				<ele>73.396</ele>
+				<time>2024-06-03T14:38:16.250Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232333535" lat="52.40304267166667">
+				<ele>73.402</ele>
+				<time>2024-06-03T14:38:16.400Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232339715" lat="52.40304379166667">
+				<ele>73.41</ele>
+				<time>2024-06-03T14:38:16.500Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232345705" lat="52.403044853333334">
+				<ele>73.419</ele>
+				<time>2024-06-03T14:38:16.600Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232351495" lat="52.403045893333335">
+				<ele>73.424</ele>
+				<time>2024-06-03T14:38:16.700Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.23235703" lat="52.40304686166667">
+				<ele>73.433</ele>
+				<time>2024-06-03T14:38:16.800Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232362315" lat="52.4030478">
+				<ele>73.435</ele>
+				<time>2024-06-03T14:38:16.900Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.23236732" lat="52.40304870666667">
+				<ele>73.439</ele>
+				<time>2024-06-03T14:38:17.000Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>3.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232374385" lat="52.40304993666667">
+				<ele>73.444</ele>
+				<time>2024-06-03T14:38:17.150Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>3.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232378738333333" lat="52.40305069666667">
+				<ele>73.451</ele>
+				<time>2024-06-03T14:38:17.250Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>3.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232382798333333" lat="52.403051415">
+				<ele>73.459</ele>
+				<time>2024-06-03T14:38:17.350Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>3.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232386598333333" lat="52.403052125">
+				<ele>73.464</ele>
+				<time>2024-06-03T14:38:17.450Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>3.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232390153333334" lat="52.40305277">
+				<ele>73.464</ele>
+				<time>2024-06-03T14:38:17.550Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>3.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.23239348" lat="52.40305333166667">
+				<ele>73.468</ele>
+				<time>2024-06-03T14:38:17.650Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>3.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232397893333333" lat="52.40305408">
+				<ele>73.474</ele>
+				<time>2024-06-03T14:38:17.800Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.23240052" lat="52.40305460333333">
+				<ele>73.478</ele>
+				<time>2024-06-03T14:38:17.900Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232402933333333" lat="52.403055">
+				<ele>73.48</ele>
+				<time>2024-06-03T14:38:18.000Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232406028333333" lat="52.403055535">
+				<ele>73.484</ele>
+				<time>2024-06-03T14:38:18.150Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232407873333333" lat="52.40305587">
+				<ele>73.488</ele>
+				<time>2024-06-03T14:38:18.250Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232409393333333" lat="52.40305614166667">
+				<ele>73.488</ele>
+				<time>2024-06-03T14:38:18.350Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.23241073" lat="52.403056381666666">
+				<ele>73.484</ele>
+				<time>2024-06-03T14:38:18.450Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232411851666667" lat="52.40305658333333">
+				<ele>73.485</ele>
+				<time>2024-06-03T14:38:18.550Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232412673333334" lat="52.403056678333336">
+				<ele>73.487</ele>
+				<time>2024-06-03T14:38:18.650Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232413278333333" lat="52.403056811666666">
+				<ele>73.485</ele>
+				<time>2024-06-03T14:38:18.750Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232413673333333" lat="52.40305689666667">
+				<ele>73.487</ele>
+				<time>2024-06-03T14:38:18.850Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414011666666" lat="52.403056961666664">
+				<ele>73.484</ele>
+				<time>2024-06-03T14:38:18.950Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414295" lat="52.403057028333336">
+				<ele>73.485</ele>
+				<time>2024-06-03T14:38:19.050Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.23241448" lat="52.403057045">
+				<ele>73.486</ele>
+				<time>2024-06-03T14:38:19.150Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414591666666" lat="52.40305706666667">
+				<ele>73.485</ele>
+				<time>2024-06-03T14:38:19.250Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414571666666" lat="52.40305704833333">
+				<ele>73.485</ele>
+				<time>2024-06-03T14:38:19.400Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414476666667" lat="52.403057028333336">
+				<ele>73.485</ele>
+				<time>2024-06-03T14:38:19.500Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414523333333" lat="52.403057045">
+				<ele>73.489</ele>
+				<time>2024-06-03T14:38:19.600Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.23241455" lat="52.403057043333334">
+				<ele>73.489</ele>
+				<time>2024-06-03T14:38:19.700Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414518333334" lat="52.40305703833333">
+				<ele>73.49</ele>
+				<time>2024-06-03T14:38:19.800Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414506666666" lat="52.40305703166667">
+				<ele>73.492</ele>
+				<time>2024-06-03T14:38:19.900Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414511666667" lat="52.40305704666667">
+				<ele>73.491</ele>
+				<time>2024-06-03T14:38:20.000Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414503333333" lat="52.40305702333333">
+				<ele>73.493</ele>
+				<time>2024-06-03T14:38:20.150Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414481666666" lat="52.40305700333333">
+				<ele>73.492</ele>
+				<time>2024-06-03T14:38:20.250Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414495" lat="52.403057028333336">
+				<ele>73.493</ele>
+				<time>2024-06-03T14:38:20.350Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414513333334" lat="52.40305705666667">
+				<ele>73.493</ele>
+				<time>2024-06-03T14:38:20.450Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414523333333" lat="52.403057051666664">
+				<ele>73.494</ele>
+				<time>2024-06-03T14:38:20.550Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414508333333" lat="52.403057053333335">
+				<ele>73.493</ele>
+				<time>2024-06-03T14:38:20.650Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414481666666" lat="52.403057028333336">
+				<ele>73.488</ele>
+				<time>2024-06-03T14:38:20.750Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.23241448" lat="52.40305703666667">
+				<ele>73.486</ele>
+				<time>2024-06-03T14:38:20.850Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414465" lat="52.403057045">
+				<ele>73.484</ele>
+				<time>2024-06-03T14:38:20.950Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414481666666" lat="52.403057071666666">
+				<ele>73.482</ele>
+				<time>2024-06-03T14:38:21.050Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414448333333" lat="52.403057051666664">
+				<ele>73.481</ele>
+				<time>2024-06-03T14:38:21.150Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414475" lat="52.40305704166666">
+				<ele>73.48</ele>
+				<time>2024-06-03T14:38:21.250Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414438333333" lat="52.40305703333333">
+				<ele>73.48</ele>
+				<time>2024-06-03T14:38:21.350Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414476666667" lat="52.403057018333335">
+				<ele>73.482</ele>
+				<time>2024-06-03T14:38:21.450Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414453333334" lat="52.403057055">
+				<ele>73.482</ele>
+				<time>2024-06-03T14:38:21.550Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414461666666" lat="52.403057045">
+				<ele>73.483</ele>
+				<time>2024-06-03T14:38:21.650Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414465" lat="52.403057051666664">
+				<ele>73.484</ele>
+				<time>2024-06-03T14:38:21.750Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414468333333" lat="52.40305703">
+				<ele>73.482</ele>
+				<time>2024-06-03T14:38:21.850Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414488333333" lat="52.40305705666667">
+				<ele>73.481</ele>
+				<time>2024-06-03T14:38:21.950Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414488333333" lat="52.403057043333334">
+				<ele>73.482</ele>
+				<time>2024-06-03T14:38:22.050Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.23241446" lat="52.403057055">
+				<ele>73.484</ele>
+				<time>2024-06-03T14:38:22.150Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414485" lat="52.403057051666664">
+				<ele>73.483</ele>
+				<time>2024-06-03T14:38:22.250Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.23241448" lat="52.40305705666667">
+				<ele>73.484</ele>
+				<time>2024-06-03T14:38:22.350Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414496666667" lat="52.40305705833333">
+				<ele>73.483</ele>
+				<time>2024-06-03T14:38:22.450Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414486666666" lat="52.40305708">
+				<ele>73.482</ele>
+				<time>2024-06-03T14:38:22.550Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414506666666" lat="52.403057105">
+				<ele>73.487</ele>
+				<time>2024-06-03T14:38:22.650Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414511666667" lat="52.40305707">
+				<ele>73.488</ele>
+				<time>2024-06-03T14:38:22.750Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414478333334" lat="52.40305705">
+				<ele>73.488</ele>
+				<time>2024-06-03T14:38:22.850Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.23241447" lat="52.40305703166667">
+				<ele>73.489</ele>
+				<time>2024-06-03T14:38:22.950Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414511666667" lat="52.403057028333336">
+				<ele>73.488</ele>
+				<time>2024-06-03T14:38:23.050Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414463333333" lat="52.40305704">
+				<ele>73.489</ele>
+				<time>2024-06-03T14:38:23.150Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414468333333" lat="52.40305704166666">
+				<ele>73.489</ele>
+				<time>2024-06-03T14:38:23.250Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.23241446" lat="52.40305706">
+				<ele>73.488</ele>
+				<time>2024-06-03T14:38:23.350Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414451666667" lat="52.40305704666667">
+				<ele>73.487</ele>
+				<time>2024-06-03T14:38:23.450Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414511666667" lat="52.40305704833333">
+				<ele>73.487</ele>
+				<time>2024-06-03T14:38:23.550Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414456666667" lat="52.403056998333334">
+				<ele>73.483</ele>
+				<time>2024-06-03T14:38:23.650Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414471666667" lat="52.403057">
+				<ele>73.48</ele>
+				<time>2024-06-03T14:38:23.750Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414475" lat="52.40305702">
+				<ele>73.481</ele>
+				<time>2024-06-03T14:38:23.850Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414471666667" lat="52.40305703833333">
+				<ele>73.484</ele>
+				<time>2024-06-03T14:38:23.950Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414456666667" lat="52.40305704">
+				<ele>73.481</ele>
+				<time>2024-06-03T14:38:24.050Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.23241443" lat="52.403057016666665">
+				<ele>73.48</ele>
+				<time>2024-06-03T14:38:24.150Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414455" lat="52.403057026666666">
+				<ele>73.481</ele>
+				<time>2024-06-03T14:38:24.250Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414475" lat="52.40305702166667">
+				<ele>73.481</ele>
+				<time>2024-06-03T14:38:24.350Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414468333333" lat="52.40305704666667">
+				<ele>73.482</ele>
+				<time>2024-06-03T14:38:24.450Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414468333333" lat="52.40305703833333">
+				<ele>73.484</ele>
+				<time>2024-06-03T14:38:24.550Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414455" lat="52.40305706">
+				<ele>73.486</ele>
+				<time>2024-06-03T14:38:24.650Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414486666666" lat="52.403057065">
+				<ele>73.483</ele>
+				<time>2024-06-03T14:38:24.750Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414483333333" lat="52.40305704833333">
+				<ele>73.484</ele>
+				<time>2024-06-03T14:38:24.850Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414465" lat="52.40305705833333">
+				<ele>73.484</ele>
+				<time>2024-06-03T14:38:24.950Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414436666666" lat="52.40305706666667">
+				<ele>73.484</ele>
+				<time>2024-06-03T14:38:25.050Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414461666666" lat="52.40305707666667">
+				<ele>73.484</ele>
+				<time>2024-06-03T14:38:25.150Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414438333333" lat="52.403057061666665">
+				<ele>73.483</ele>
+				<time>2024-06-03T14:38:25.250Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414486666666" lat="52.40305712666667">
+				<ele>73.487</ele>
+				<time>2024-06-03T14:38:25.350Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414541666667" lat="52.403057095">
+				<ele>73.486</ele>
+				<time>2024-06-03T14:38:25.450Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414616666667" lat="52.40305708">
+				<ele>73.486</ele>
+				<time>2024-06-03T14:38:25.550Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414718333333" lat="52.40305715666667">
+				<ele>73.486</ele>
+				<time>2024-06-03T14:38:25.650Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232414875" lat="52.403057185">
+				<ele>73.486</ele>
+				<time>2024-06-03T14:38:25.750Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232415053333334" lat="52.403057198333336">
+				<ele>73.488</ele>
+				<time>2024-06-03T14:38:25.850Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232415288333334" lat="52.40305724833333">
+				<ele>73.486</ele>
+				<time>2024-06-03T14:38:25.950Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232415558333333" lat="52.403057288333336">
+				<ele>73.484</ele>
+				<time>2024-06-03T14:38:26.050Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232416031666666" lat="52.40305736166667">
+				<ele>73.489</ele>
+				<time>2024-06-03T14:38:26.200Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232416438333333" lat="52.40305741666667">
+				<ele>73.489</ele>
+				<time>2024-06-03T14:38:26.300Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232416876666667" lat="52.40305749">
+				<ele>73.488</ele>
+				<time>2024-06-03T14:38:26.400Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232417335" lat="52.40305762">
+				<ele>73.493</ele>
+				<time>2024-06-03T14:38:26.500Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.23241784" lat="52.40305769166667">
+				<ele>73.494</ele>
+				<time>2024-06-03T14:38:26.600Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.23241837" lat="52.403057788333335">
+				<ele>73.494</ele>
+				<time>2024-06-03T14:38:26.700Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232418886666666" lat="52.40305785">
+				<ele>73.494</ele>
+				<time>2024-06-03T14:38:26.800Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232419451666667" lat="52.40305793666667">
+				<ele>73.492</ele>
+				<time>2024-06-03T14:38:26.900Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232420046666666" lat="52.40305806333333">
+				<ele>73.491</ele>
+				<time>2024-06-03T14:38:27.000Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.23242113" lat="52.40305828333333">
+				<ele>73.5</ele>
+				<time>2024-06-03T14:38:27.150Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232421868333333" lat="52.40305839333333">
+				<ele>73.506</ele>
+				<time>2024-06-03T14:38:27.250Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232422583333333" lat="52.40305852833333">
+				<ele>73.505</ele>
+				<time>2024-06-03T14:38:27.350Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232423346666666" lat="52.40305865166667">
+				<ele>73.509</ele>
+				<time>2024-06-03T14:38:27.450Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232424186666666" lat="52.40305873333333">
+				<ele>73.504</ele>
+				<time>2024-06-03T14:38:27.550Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232425018333334" lat="52.40305886">
+				<ele>73.501</ele>
+				<time>2024-06-03T14:38:27.650Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232425873333334" lat="52.40305903666667">
+				<ele>73.496</ele>
+				<time>2024-06-03T14:38:27.750Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232426816666667" lat="52.40305921">
+				<ele>73.495</ele>
+				<time>2024-06-03T14:38:27.850Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232427781666667" lat="52.403059338333335">
+				<ele>73.499</ele>
+				<time>2024-06-03T14:38:27.950Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232428773333334" lat="52.403059533333334">
+				<ele>73.503</ele>
+				<time>2024-06-03T14:38:28.050Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232429771666666" lat="52.403059721666665">
+				<ele>73.504</ele>
+				<time>2024-06-03T14:38:28.150Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232430775" lat="52.403059866666666">
+				<ele>73.502</ele>
+				<time>2024-06-03T14:38:28.250Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232431825" lat="52.40306008333334">
+				<ele>73.504</ele>
+				<time>2024-06-03T14:38:28.350Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232433433333334" lat="52.40306043">
+				<ele>73.51</ele>
+				<time>2024-06-03T14:38:28.500Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232434503333334" lat="52.403060645">
+				<ele>73.51</ele>
+				<time>2024-06-03T14:38:28.600Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.23243559" lat="52.40306085666667">
+				<ele>73.511</ele>
+				<time>2024-06-03T14:38:28.700Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232436705" lat="52.40306110833333">
+				<ele>73.515</ele>
+				<time>2024-06-03T14:38:28.800Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232437855" lat="52.403061351666665">
+				<ele>73.518</ele>
+				<time>2024-06-03T14:38:28.900Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232438998333333" lat="52.403061603333335">
+				<ele>73.518</ele>
+				<time>2024-06-03T14:38:29.000Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232440746666667" lat="52.403061978333334">
+				<ele>73.524</ele>
+				<time>2024-06-03T14:38:29.150Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232441926666667" lat="52.40306222">
+				<ele>73.523</ele>
+				<time>2024-06-03T14:38:29.250Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232443173333333" lat="52.403062516666665">
+				<ele>73.525</ele>
+				<time>2024-06-03T14:38:29.350Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.23244443" lat="52.403062786666666">
+				<ele>73.529</ele>
+				<time>2024-06-03T14:38:29.450Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232445731666667" lat="52.403063135">
+				<ele>73.537</ele>
+				<time>2024-06-03T14:38:29.550Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232447055" lat="52.403063411666665">
+				<ele>73.54</ele>
+				<time>2024-06-03T14:38:29.650Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232448445" lat="52.40306378166667">
+				<ele>73.539</ele>
+				<time>2024-06-03T14:38:29.750Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232449938333334" lat="52.403064155">
+				<ele>73.54</ele>
+				<time>2024-06-03T14:38:29.850Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.23245155" lat="52.403064586666666">
+				<ele>73.544</ele>
+				<time>2024-06-03T14:38:29.950Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232454246666666" lat="52.403065295">
+				<ele>73.547</ele>
+				<time>2024-06-03T14:38:30.100Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232456153333333" lat="52.403065823333336">
+				<ele>73.545</ele>
+				<time>2024-06-03T14:38:30.200Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232458246666667" lat="52.40306645333333">
+				<ele>73.551</ele>
+				<time>2024-06-03T14:38:30.300Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.23246043" lat="52.40306712666667">
+				<ele>73.552</ele>
+				<time>2024-06-03T14:38:30.400Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232462691666667" lat="52.403067795">
+				<ele>73.554</ele>
+				<time>2024-06-03T14:38:30.500Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232465043333333" lat="52.40306857">
+				<ele>73.557</ele>
+				<time>2024-06-03T14:38:30.600Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232467453333333" lat="52.40306934666667">
+				<ele>73.556</ele>
+				<time>2024-06-03T14:38:30.700Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232469935" lat="52.403070156666665">
+				<ele>73.556</ele>
+				<time>2024-06-03T14:38:30.800Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232472576666666" lat="52.40307105666667">
+				<ele>73.56</ele>
+				<time>2024-06-03T14:38:30.900Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>1.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232475121666667" lat="52.40307195333333">
+				<ele>73.561</ele>
+				<time>2024-06-03T14:38:31.000Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232479176666667" lat="52.403073428333336">
+				<ele>73.565</ele>
+				<time>2024-06-03T14:38:31.150Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232481875" lat="52.40307443166667">
+				<ele>73.57</ele>
+				<time>2024-06-03T14:38:31.250Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.51</hdop>
+				<ageofdgpsdata>2.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232484548333334" lat="52.403075523333335">
+				<ele>73.571</ele>
+				<time>2024-06-03T14:38:31.350Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232487321666667" lat="52.40307663666667">
+				<ele>73.579</ele>
+				<time>2024-06-03T14:38:31.450Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232490033333333" lat="52.403077761666665">
+				<ele>73.582</ele>
+				<time>2024-06-03T14:38:31.550Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232492861666667" lat="52.40307893">
+				<ele>73.587</ele>
+				<time>2024-06-03T14:38:31.650Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232495611666666" lat="52.403080145">
+				<ele>73.591</ele>
+				<time>2024-06-03T14:38:31.750Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232498475" lat="52.40308135833333">
+				<ele>73.586</ele>
+				<time>2024-06-03T14:38:31.850Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.23250124" lat="52.40308259333333">
+				<ele>73.586</ele>
+				<time>2024-06-03T14:38:31.950Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232504055" lat="52.40308392166666">
+				<ele>73.591</ele>
+				<time>2024-06-03T14:38:32.050Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.23250686" lat="52.40308521">
+				<ele>73.595</ele>
+				<time>2024-06-03T14:38:32.150Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232509656666666" lat="52.40308657166667">
+				<ele>73.6</ele>
+				<time>2024-06-03T14:38:32.250Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232513925" lat="52.403088571666665">
+				<ele>73.601</ele>
+				<time>2024-06-03T14:38:32.400Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.23251674" lat="52.403089935">
+				<ele>73.605</ele>
+				<time>2024-06-03T14:38:32.500Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232519678333333" lat="52.40309126">
+				<ele>73.607</ele>
+				<time>2024-06-03T14:38:32.600Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232522608333333" lat="52.40309265">
+				<ele>73.604</ele>
+				<time>2024-06-03T14:38:32.700Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232525613333333" lat="52.40309391666667">
+				<ele>73.609</ele>
+				<time>2024-06-03T14:38:32.800Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.23252865" lat="52.403095226666665">
+				<ele>73.611</ele>
+				<time>2024-06-03T14:38:32.900Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.23253173" lat="52.403096495">
+				<ele>73.615</ele>
+				<time>2024-06-03T14:38:33.000Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232536401666668" lat="52.40309843833333">
+				<ele>73.62</ele>
+				<time>2024-06-03T14:38:33.150Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232539648333333" lat="52.403099663333336">
+				<ele>73.623</ele>
+				<time>2024-06-03T14:38:33.250Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232542993333333" lat="52.40310091166667">
+				<ele>73.629</ele>
+				<time>2024-06-03T14:38:33.350Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232546276666667" lat="52.40310215666667">
+				<ele>73.631</ele>
+				<time>2024-06-03T14:38:33.450Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232549586666666" lat="52.40310342">
+				<ele>73.633</ele>
+				<time>2024-06-03T14:38:33.550Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232553048333333" lat="52.40310465833333">
+				<ele>73.639</ele>
+				<time>2024-06-03T14:38:33.650Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232556643333334" lat="52.403105905">
+				<ele>73.641</ele>
+				<time>2024-06-03T14:38:33.750Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232560361666666" lat="52.40310718333333">
+				<ele>73.648</ele>
+				<time>2024-06-03T14:38:33.850Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.23256418" lat="52.403108425">
+				<ele>73.65</ele>
+				<time>2024-06-03T14:38:33.950Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232568055" lat="52.403109748333335">
+				<ele>73.652</ele>
+				<time>2024-06-03T14:38:34.050Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232572075" lat="52.40311103333333">
+				<ele>73.656</ele>
+				<time>2024-06-03T14:38:34.150Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232576176666667" lat="52.40311228833333">
+				<ele>73.661</ele>
+				<time>2024-06-03T14:38:34.250Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232580531666667" lat="52.40311358833333">
+				<ele>73.672</ele>
+				<time>2024-06-03T14:38:34.350Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232584903333333" lat="52.403114863333336">
+				<ele>73.675</ele>
+				<time>2024-06-03T14:38:34.450Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232589418333333" lat="52.40311617166667">
+				<ele>73.678</ele>
+				<time>2024-06-03T14:38:34.550Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232594053333333" lat="52.403117458333334">
+				<ele>73.679</ele>
+				<time>2024-06-03T14:38:34.650Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232598854999999" lat="52.403118793333334">
+				<ele>73.686</ele>
+				<time>2024-06-03T14:38:34.750Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.8</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232603788333334" lat="52.40312012">
+				<ele>73.694</ele>
+				<time>2024-06-03T14:38:34.850Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.9</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232608848333333" lat="52.403121438333336">
+				<ele>73.695</ele>
+				<time>2024-06-03T14:38:34.950Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.0</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.23261405" lat="52.40312277333334">
+				<ele>73.701</ele>
+				<time>2024-06-03T14:38:35.050Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>2.1</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232619326666667" lat="52.40312405833333">
+				<ele>73.708</ele>
+				<time>2024-06-03T14:38:35.150Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.2</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232627383333334" lat="52.403126035">
+				<ele>73.712</ele>
+				<time>2024-06-03T14:38:35.300Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.3</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232632886666666" lat="52.403127293333334">
+				<ele>73.713</ele>
+				<time>2024-06-03T14:38:35.400Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.4</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232638563333333" lat="52.40312863333333">
+				<ele>73.722</ele>
+				<time>2024-06-03T14:38:35.500Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.5</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.23264439" lat="52.403129945">
+				<ele>73.728</ele>
+				<time>2024-06-03T14:38:35.600Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.6</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.232650321666666" lat="52.40313127333334">
+				<ele>73.737</ele>
+				<time>2024-06-03T14:38:35.700Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.7</ageofdgpsdata>
+			</trkpt>
+			<trkpt lon="10.23265636" lat="52.403132605">
+				<ele>73.743</ele>
+				<time>2024-06-03T14:38:35.800Z</time>
+				<cmt>gga_quality: Fixed RTK</cmt>
+				<sat>12</sat>
+				<hdop>0.52</hdop>
+				<ageofdgpsdata>1.8</ageofdgpsdata>
+			</trkpt>
+		</trkseg>
+	</trk>
+</gpx>
