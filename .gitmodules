@@ -1,0 +1,3 @@
+[submodule "ontology-management-base"]
+	path = ontology-management-base
+	url = https://github.com/GAIA-X4PLC-AAD/ontology-management-base.git

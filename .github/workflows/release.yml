@@ -1,0 +1,62 @@
+name: Create Release
+
+on:
+  push:
+    tags:
+      - 'v*.*.*'  # Triggers the workflow on version tags
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository (+ download lfs dependencies)
+      uses: actions/checkout@v4
+      with:
+          lfs: true
+    - name: Checkout LFS objects
+      run: git lfs checkout
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+
+    - name: Install zip
+      run: sudo apt-get install -y zip
+
+    - name: Create zip file
+      run: |
+        zip -r ./TestfeldNiedersachsen_osi_gt.zip ./osi_gt_asset/*
+        zip -r ./TestfeldNiedersachsen_osi_gt.zip ./osi_sv_asset/*
+ 
+    - name: Create Release
+      id: create_release
+      uses: actions/create-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        tag_name: ${{ github.ref }}
+        release_name: Release ${{ github.ref }}
+        draft: false
+        prerelease: false
+
+    - name: Upload Release Asset (1)
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }}
+        asset_path: ./TestfeldNiedersachsen_osi_gt.zip
+        asset_name: TestfeldNiedersachsen_osi_gt.zip
+        asset_content_type: application/zip
+
+    - name: Upload Release Asset (2)
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }}
+        asset_path: ./TestfeldNiedersachsen_osi_sv.zip
+        asset_name: TestfeldNiedersachsen_osi_sv.zip
+        asset_content_type: application/zip
