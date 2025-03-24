@@ -1,0 +1,49 @@
+CHECK (Frame 421; 2024-06-03 16:38:04.148644): Internal frequency (50ms) inconsistency: delta to previous message: 154.57ms
+CHECK (Frame 732; 2024-06-03 16:38:04.650502): Internal frequency (50ms) inconsistency: delta to previous message: 99.85ms
+CHECK (Frame 769; 2024-06-03 16:38:04.707111): Internal frequency (50ms) inconsistency: delta to previous message: 100.2ms
+CHECK (Frame 1002; 2024-06-03 16:38:05.075887): Internal frequency (50ms) inconsistency: delta to previous message: 98.62ms
+CHECK (Frame 1119; 2024-06-03 16:38:05.261205): Internal frequency (50ms) inconsistency: delta to previous message: 103.14ms
+CHECK (Frame 1352; 2024-06-03 16:38:05.640656): Internal frequency (50ms) inconsistency: delta to previous message: 99.95ms
+CHECK (Frame 1390; 2024-06-03 16:38:05.706245): Internal frequency (50ms) inconsistency: delta to previous message: 100.02ms
+CHECK (Frame 1660; 2024-06-03 16:38:06.138198): Internal frequency (50ms) inconsistency: delta to previous message: 99.91ms
+CHECK (Frame 1700; 2024-06-03 16:38:06.197199): Internal frequency (50ms) inconsistency: delta to previous message: 100.07ms
+CHECK (Frame 2047; 2024-06-03 16:38:06.737084): Internal frequency (50ms) inconsistency: delta to previous message: 100.08ms
+CHECK (Frame 2085; 2024-06-03 16:38:06.796847): Internal frequency (50ms) inconsistency: delta to previous message: 99.85ms
+CHECK (Frame 2468; 2024-06-03 16:38:07.373286): Internal frequency (50ms) inconsistency: delta to previous message: 103.12ms
+CHECK (Frame 2545; 2024-06-03 16:38:07.484086): Internal frequency (50ms) inconsistency: delta to previous message: 99.89ms
+CHECK (Frame 2890; 2024-06-03 16:38:08.021928): Internal frequency (50ms) inconsistency: delta to previous message: 100.1ms
+CHECK (Frame 3157; 2024-06-03 16:38:08.426157): Internal frequency (50ms) inconsistency: delta to previous message: 99.93ms
+CHECK (Frame 3272; 2024-06-03 16:38:08.596226): Internal frequency (50ms) inconsistency: delta to previous message: 99.9ms
+CHECK (Frame 3731; 2024-06-03 16:38:09.276775): Internal frequency (50ms) inconsistency: delta to previous message: 144.26ms
+CHECK (Frame 4190; 2024-06-03 16:38:09.963891): Internal frequency (50ms) inconsistency: delta to previous message: 98.13ms
+CHECK (Frame 4344; 2024-06-03 16:38:10.186706): Internal frequency (50ms) inconsistency: delta to previous message: 99.95ms
+CHECK (Frame 4650; 2024-06-03 16:38:10.651479): Internal frequency (50ms) inconsistency: delta to previous message: 102.58ms
+CHECK (Frame 4993; 2024-06-03 16:38:11.177310): Internal frequency (50ms) inconsistency: delta to previous message: 146.32ms
+CHECK (Frame 5340; 2024-06-03 16:38:11.708011): Internal frequency (50ms) inconsistency: delta to previous message: 100.26ms
+CHECK (Frame 5572; 2024-06-03 16:38:12.061089): Internal frequency (50ms) inconsistency: delta to previous message: 98.11ms
+CHECK (Frame 5803; 2024-06-03 16:38:12.413007): Internal frequency (50ms) inconsistency: delta to previous message: 100.07ms
+CHECK (Frame 5956; 2024-06-03 16:38:12.641656): Internal frequency (50ms) inconsistency: delta to previous message: 98.44ms
+CHECK (Frame 6189; 2024-06-03 16:38:13.009805): Internal frequency (50ms) inconsistency: delta to previous message: 100.06ms
+CHECK (Frame 6421; 2024-06-03 16:38:13.373493): Internal frequency (50ms) inconsistency: delta to previous message: 103.3ms
+CHECK (Frame 6500; 2024-06-03 16:38:13.506597): Internal frequency (50ms) inconsistency: delta to previous message: 99.96ms
+CHECK (Frame 6654; 2024-06-03 16:38:13.751565): Internal frequency (50ms) inconsistency: delta to previous message: 97.88ms
+CHECK (Frame 6886; 2024-06-03 16:38:14.123763): Internal frequency (50ms) inconsistency: delta to previous message: 99.99ms
+CHECK (Frame 7080; 2024-06-03 16:38:14.426308): Internal frequency (50ms) inconsistency: delta to previous message: 100.07ms
+CHECK (Frame 7118; 2024-06-03 16:38:14.478132): Internal frequency (50ms) inconsistency: delta to previous message: 100.05ms
+CHECK (Frame 7427; 2024-06-03 16:38:14.959045): Internal frequency (50ms) inconsistency: delta to previous message: 98.54ms
+CHECK (Frame 7695; 2024-06-03 16:38:15.363659): Internal frequency (50ms) inconsistency: delta to previous message: 98.86ms
+CHECK (Frame 7772; 2024-06-03 16:38:15.479805): Internal frequency (50ms) inconsistency: delta to previous message: 100.13ms
+CHECK (Frame 8041; 2024-06-03 16:38:15.896931): Internal frequency (50ms) inconsistency: delta to previous message: 100.07ms
+CHECK (Frame 8424; 2024-06-03 16:38:16.464243): Internal frequency (50ms) inconsistency: delta to previous message: 98.96ms
+CHECK (Frame 8806; 2024-06-03 16:38:17.022385): Internal frequency (50ms) inconsistency: delta to previous message: 100.13ms
+CHECK (Frame 8880; 2024-06-03 16:38:17.126932): Internal frequency (50ms) inconsistency: delta to previous message: 98.41ms
+SENSOR PERFORMANCE CHECKS:
+-----------------------------------------------------------------------
+Total cycles written:                                   457
+Dropped cycles at beginning:                            3
+Lost cycles in pcapng (timestamp gaps > cycle time):    39
+Double cycles in pcapng (same timestamp):               0
+Tot. moving object zeros (w/ treshold):                 0
+Max. consecutive moving object zeros (w/ treshold):     0
+ObjectList timestamp is zero:                           0
+-----------------------------------------------------------------------
