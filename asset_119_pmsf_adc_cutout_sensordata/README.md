@@ -1,6 +1,6 @@
-# 20240603T143803.535904Z_sv_370_3200_364_pmsf_dronetracker_119_cutout
+# 20240603T143803.535904Z_sd_370_3200_457_pmsf_ars548_054814_119_cutout
 
-OSI SensorView trace of cut-out scenario on testing ground
+OSI SensorData trace of cut-out scenario on testing ground
 
 ## Digital Assets
 
