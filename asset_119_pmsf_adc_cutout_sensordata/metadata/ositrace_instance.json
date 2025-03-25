@@ -9,7 +9,7 @@
     "manifest": "https://ontologies.envited-x.net/manifest/v4/ontology#",
     "gx": "https://registry.lab.gaia-x.eu/development/api/trusted-shape-registry/v1/shapes/jsonld/trustframework#"
   },
-  "@id": "did:web:registry.gaia-x.eu:OSITrace:T9rkdS19poUrbbAEk3rXMqZ3hzVezwDrrxaf",
+  "@id": "did:web:registry.gaia-x.eu:OSITrace:XyZk9MaTqLp8WvB2Nr6uV7w83tQrFsGj5lD4",
   "@type": "ositrace:OSITrace",
   "ositrace:hasDataResource": {
     "@type": "envited-x:DataResource",
@@ -214,6 +214,10 @@
       },
       "manifest:mimeType": {
         "@value": "application/ld+json",
+        "@type": "xsd:string"
+      },
+      "manifest:cid": {
+        "@value": "bafkreig3pyv2oeenmaqwgcycoltow72vtteo2exmwdpr3u57ujq6kgcz5a",
         "@type": "xsd:string"
       }
     }

@@ -1,16 +1,43 @@
 {
-    "@context": {
-      "envited-x": "https://ontologies.envited-x.net/envited-x/v2/ontology#",
-      "manifest": "https://ontologies.envited-x.net/manifest/v4/ontology#",
-      "gx": "https://registry.lab.gaia-x.eu/development/api/trusted-shape-registry/v1/shapes/jsonld/trustframework#",
-      "sh": "http://www.w3.org/ns/shacl#",
-      "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-      "xsd": "http://www.w3.org/2001/XMLSchema#",
-      "skos": "http://www.w3.org/2004/02/skos/core#"
+  "@context": {
+    "envited-x": "https://ontologies.envited-x.net/envited-x/v2/ontology#",
+    "manifest": "https://ontologies.envited-x.net/manifest/v4/ontology#",
+    "gx": "https://registry.lab.gaia-x.eu/development/api/trusted-shape-registry/v1/shapes/jsonld/trustframework#",
+    "sh": "http://www.w3.org/ns/shacl#",
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "skos": "http://www.w3.org/2004/02/skos/core#"
+  },
+  "@id": "did:web:registry.gaia-x.eu:Manifest:ZNh9Z-tHQpkpxJhNobhUVmauYxrfTAZdQy9L",
+  "@type": "envited-x:Manifest",
+  "manifest:hasManifestReference": {
+    "@type": "manifest:Link",
+    "manifest:hasAccessRole": {
+      "@type": "manifest:AccessRole",
+      "@id": "envited-x:isPublic"
     },
-    "@id": "did:web:registry.gaia-x.eu:Manifest:ZNh9Z-tHQpkpxJhNobhUVmauYxrfTAZdQy9L",
-    "@type": "envited-x:Manifest",
-    "manifest:hasManifestReference": {
+    "manifest:hasCategory": {
+      "@type": "manifest:Category",
+      "@id": "envited-x:isManifest"
+    },
+    "manifest:hasFileMetadata": {
+      "@type": "manifest:FileMetadata",
+      "manifest:filePath": {
+        "@value": "./manifest_reference.json",
+        "@type": "xsd:anyURI"
+      },
+      "manifest:mimeType": {
+        "@value": "application/ld+json",
+        "@type": "xsd:string"
+      }
+    }
+  },
+  "manifest:hasLicense": {
+    "@type": "manifest:License",
+    "gx:license": {
+      "@value": "MPL-2.0"
+    },
+    "manifest:licenseData": {
       "@type": "manifest:Link",
       "manifest:hasAccessRole": {
         "@type": "manifest:AccessRole",
@@ -18,255 +45,244 @@
       },
       "manifest:hasCategory": {
         "@type": "manifest:Category",
-        "@id": "envited-x:isManifest"
+        "@id": "envited-x:isLicense"
       },
       "manifest:hasFileMetadata": {
         "@type": "manifest:FileMetadata",
         "manifest:filePath": {
-          "@value": "./manifest_reference.json",
+          "@value": "./LICENSE",
+          "@type": "xsd:anyURI"
+        },
+        "manifest:mimeType": {
+          "@value": "text/plain",
+          "@type": "xsd:string"
+        }
+      }
+    }
+  },
+  "manifest:hasArtifacts": [
+    {
+      "@type": "manifest:Link",
+      "manifest:hasAccessRole": {
+        "@type": "manifest:AccessRole",
+        "@id": "envited-x:isOwner"
+      },
+      "manifest:hasCategory": {
+        "@type": "manifest:Category",
+        "@id": "envited-x:isSimulationData"
+      },
+      "manifest:hasFileMetadata": {
+        "@type": "manifest:FileMetadata",
+        "manifest:filePath": {
+          "@value": "./simulation-data/20240603T143803.535904Z_sv_370_3200_364_pmsf_dronetracker_119_cutout.mcap",
+          "@type": "xsd:anyURI"
+        },
+        "manifest:mimeType": {
+          "@value": "application/x-osi",
+          "@type": "xsd:string"
+        },
+        "manifest:fileSize": {
+          "@value": 103001,
+          "@type": "xsd:integer"
+        },
+        "manifest:filename": {
+          "@value": "20240603T143803.535904Z_sv_370_3200_364_pmsf_dronetracker_119_cutout.mcap",
+          "@type": "xsd:string"
+        }
+      }
+    },
+    {
+      "@type": "manifest:Link",
+      "manifest:hasAccessRole": {
+        "@type": "manifest:AccessRole",
+        "@id": "envited-x:isRegistered"
+      },
+      "manifest:hasCategory": {
+        "@type": "manifest:Category",
+        "@id": "envited-x:isDocumentation"
+      },
+      "manifest:hasFileMetadata": {
+        "@type": "manifest:FileMetadata",
+        "manifest:filePath": {
+          "@value": "./documentation/20240603T143803.535904Z_sv_370_3200_364_pmsf_dronetracker_119_cutout_Documentation.pdf",
+          "@type": "xsd:anyURI"
+        },
+        "manifest:mimeType": {
+          "@value": "application/pdf",
+          "@type": "xsd:string"
+        },
+        "manifest:fileSize": {
+          "@value": 62393,
+          "@type": "xsd:integer"
+        },
+        "manifest:filename": {
+          "@value": "20240603T143803.535904Z_sv_370_3200_364_pmsf_dronetracker_119_cutout_Documentation.pdf",
+          "@type": "xsd:string"
+        }
+      }
+    },
+    {
+      "@type": "manifest:Link",
+      "manifest:iri": {
+        "@id": "did:web:registry.gaia-x.eu:OSITrace:U8vLmQ4tRsXpYzBnC2rDwF7eGjHkZ9NqrP5t"
+      },
+      "skos:note": {
+        "@value": "This is the domain metadata for an OSITrace (OSI SensorView).",
+        "@type": "xsd:string"
+      },
+      "sh:conformsTo": [
+        {
+          "@id": "https://ontologies.envited-x.net/ositrace/v4/ontology#"
+        }
+      ],
+      "manifest:hasAccessRole": {
+        "@type": "manifest:AccessRole",
+        "@id": "envited-x:isPublic"
+      },
+      "manifest:hasCategory": {
+        "@type": "manifest:Category",
+        "@id": "envited-x:isMetadata"
+      },
+      "manifest:hasFileMetadata": {
+        "@type": "manifest:FileMetadata",
+        "manifest:filePath": {
+          "@value": "./metadata/ositrace_instance.json",
           "@type": "xsd:anyURI"
         },
         "manifest:mimeType": {
           "@value": "application/ld+json",
           "@type": "xsd:string"
+        },
+        "manifest:fileSize": {
+          "@value": 6882,
+          "@type": "xsd:integer"
+        },
+        "manifest:filename": {
+          "@value": "ositrace_instance.json",
+          "@type": "xsd:string"
         }
       }
     },
-    "manifest:hasLicense": {
-      "@type": "manifest:License",
-      "gx:license": {
-        "@value": "MPL-2.0"
+    {
+      "@type": "manifest:Link",
+      "manifest:hasAccessRole": {
+        "@type": "manifest:AccessRole",
+        "@id": "envited-x:isPublic"
       },
-      "manifest:licenseData": {
-        "@type": "manifest:Link",
-        "manifest:hasAccessRole": {
-          "@type": "manifest:AccessRole",
-          "@id": "envited-x:isPublic"
-        },
-        "manifest:hasCategory": {
-          "@type": "manifest:Category",
-          "@id": "envited-x:isLicense"
-        },
-        "manifest:hasFileMetadata": {
-          "@type": "manifest:FileMetadata",
-          "manifest:filePath": {
-            "@value": "./LICENSE",
-            "@type": "xsd:anyURI"
-          },
-          "manifest:mimeType": {
-            "@value": "text/plain",
-            "@type": "xsd:string"
-          }
-        }
-      }
-    },
-    "manifest:hasArtifacts": [
-      {
-        "@type": "manifest:Link",
-        "manifest:hasAccessRole": {
-          "@type": "manifest:AccessRole",
-          "@id": "envited-x:isOwner"
-        },
-        "manifest:hasCategory": {
-          "@type": "manifest:Category",
-          "@id": "envited-x:isSimulationData"
-        },
-        "manifest:hasFileMetadata": {
-          "@type": "manifest:FileMetadata",
-          "manifest:filePath": {
-            "@value": "./simulation-data/20240603T143803.535904Z_sv_370_3200_364_pmsf_dronetracker_119_cutout.mcap",
-            "@type": "xsd:anyURI"
-          },
-          "manifest:mimeType": {
-            "@value": "application/x-osi",
-            "@type": "xsd:string"
-          },
-          "manifest:fileSize": {
-            "@value": 103001,
-            "@type": "xsd:integer"
-          },
-          "manifest:filename": {
-            "@value": "20240603T143803.535904Z_sv_370_3200_364_pmsf_dronetracker_119_cutout.mcap",
-            "@type": "xsd:string"
-          }
-        }
+      "manifest:hasCategory": {
+        "@type": "manifest:Category",
+        "@id": "envited-x:isDocumentation"
       },
-      {
-        "@type": "manifest:Link",
-        "manifest:hasAccessRole": {
-          "@type": "manifest:AccessRole",
-          "@id": "envited-x:isRegistered"
+      "manifest:hasFileMetadata": {
+        "@type": "manifest:FileMetadata",
+        "manifest:filePath": {
+          "@value": "./README.md",
+          "@type": "xsd:anyURI"
         },
-        "manifest:hasCategory": {
-          "@type": "manifest:Category",
-          "@id": "envited-x:isDocumentation"
-        },
-        "manifest:hasFileMetadata": {
-          "@type": "manifest:FileMetadata",
-          "manifest:filePath": {
-            "@value": "./documentation/20240603T143803.535904Z_sv_370_3200_364_pmsf_dronetracker_119_cutout_Documentation.pdf",
-            "@type": "xsd:anyURI"
-          },
-          "manifest:mimeType": {
-            "@value": "application/pdf",
-            "@type": "xsd:string"
-          },
-          "manifest:fileSize": {
-            "@value": 11,
-            "@type": "xsd:integer"
-          },
-          "manifest:filename": {
-            "@value": "20240603T143803.535904Z_sv_370_3200_364_pmsf_dronetracker_119_cutout_Documentation.pdf",
-            "@type": "xsd:string"
-          }
-        }
-      },
-      {
-        "@type": "manifest:Link",
-        "manifest:iri": {
-          "@id": "did:web:registry.gaia-x.eu:OSITrace:DjHgK5ErTBow1Ya3J05tW9l12skGWgZn6kA9"
-        },
-        "skos:note": {
-          "@value": "This is the domain metadata for an OSITrace (OSI SensorView).",
+        "manifest:mimeType": {
+          "@value": "text/markdown",
           "@type": "xsd:string"
         },
-        "sh:conformsTo": [
-          {
-            "@id": "https://ontologies.envited-x.net/ositrace/v4/ontology#"
-          }
-        ],
-        "manifest:hasAccessRole": {
-          "@type": "manifest:AccessRole",
-          "@id": "envited-x:isPublic"
+        "manifest:fileSize": {
+          "@value": 5076,
+          "@type": "xsd:integer"
         },
-        "manifest:hasCategory": {
-          "@type": "manifest:Category",
-          "@id": "envited-x:isMetadata"
-        },
-        "manifest:hasFileMetadata": {
-          "@type": "manifest:FileMetadata",
-          "manifest:filePath": {
-            "@value": "./metadata/ositrace_instance.json",
-            "@type": "xsd:anyURI"
-          },
-          "manifest:mimeType": {
-            "@value": "application/ld+json",
-            "@type": "xsd:string"
-          },
-          "manifest:fileSize": {
-            "@value": 3751,
-            "@type": "xsd:integer"
-          },
-          "manifest:filename": {
-            "@value": "ositrace_instance.json",
-            "@type": "xsd:string"
-          }
-        }
-      },
-      {
-        "@type": "manifest:Link",
-        "manifest:hasAccessRole": {
-          "@type": "manifest:AccessRole",
-          "@id": "envited-x:isPublic"
-        },
-        "manifest:hasCategory": {
-          "@type": "manifest:Category",
-          "@id": "envited-x:isDocumentation"
-        },
-        "manifest:hasFileMetadata": {
-          "@type": "manifest:FileMetadata",
-          "manifest:filePath": {
-            "@value": "./README.md",
-            "@type": "xsd:anyURI"
-          },
-          "manifest:mimeType": {
-            "@value": "text/markdown",
-            "@type": "xsd:string"
-          },
-          "manifest:filename": {
-            "@value": "README.md",
-            "@type": "xsd:string"
-          }
-        }
-      },
-      {
-        "@type": "manifest:Link",
-        "manifest:hasAccessRole": {
-          "@type": "manifest:AccessRole",
-          "@id": "envited-x:isPublic"
-        },
-        "manifest:hasCategory": {
-          "@type": "manifest:Category",
-          "@id": "envited-x:isMedia"
-        },
-        "manifest:hasFileMetadata": {
-          "@type": "manifest:FileMetadata",
-          "manifest:filePath": {
-            "@value": "./media/20240603T143715.300000Z_position_pmsf_zedf9p_119_cutout.gpx",
-            "@type": "xsd:anyURI"
-          },
-          "manifest:mimeType": {
-            "@value": "application/gpx+xml",
-            "@type": "xsd:string"
-          },
-          "manifest:filename": {
-            "@value": "20240603T143715.300000Z_position_pmsf_zedf9p_119_cutout.gpx",
-            "@type": "xsd:string"
-          }
-        }
-      },
-      {
-        "@type": "manifest:Link",
-        "manifest:hasAccessRole": {
-          "@type": "manifest:AccessRole",
-          "@id": "envited-x:isPublic"
-        },
-        "manifest:hasCategory": {
-          "@type": "manifest:Category",
-          "@id": "envited-x:isMedia"
-        },
-        "manifest:hasFileMetadata": {
-          "@type": "manifest:FileMetadata",
-          "manifest:filePath": {
-            "@value": "./media/20240603T143705.271700Z_GP033962_119_cutout_adc.mp4",
-            "@type": "xsd:anyURI"
-          },
-          "manifest:mimeType": {
-            "@value": "video/mp4",
-            "@type": "xsd:string"
-          },
-          "manifest:filename": {
-            "@value": "20240603T143705.271700Z_GP033962_119_cutout_adc.mp4",
-            "@type": "xsd:string"
-          }
-        }
-      },
-      {
-        "@type": "manifest:Link",
-        "manifest:hasAccessRole": {
-          "@type": "manifest:AccessRole",
-          "@id": "envited-x:isPublic"
-        },
-        "manifest:hasCategory": {
-          "@type": "manifest:Category",
-          "@id": "envited-x:isMedia"
-        },
-        "manifest:hasFileMetadata": {
-          "@type": "manifest:FileMetadata",
-          "manifest:filePath": {
-            "@value": "./media/20240603T143803.535904Z_sv_370_3200_364_pmsf_dronetracker_119_cutout_01.png",
-            "@type": "xsd:anyURI"
-          },
-          "manifest:mimeType": {
-            "@value": "image/png",
-            "@type": "xsd:string"
-          },
-          "manifest:filename": {
-            "@value": "20240603T143803.535904Z_sv_370_3200_364_pmsf_dronetracker_119_cutout_01.png",
-            "@type": "xsd:string"
-          }
+        "manifest:filename": {
+          "@value": "README.md",
+          "@type": "xsd:string"
         }
       }
-    ],
-    "manifest:hasReferencedArtifacts": []
-  }
+    },
+    {
+      "@type": "manifest:Link",
+      "manifest:hasAccessRole": {
+        "@type": "manifest:AccessRole",
+        "@id": "envited-x:isPublic"
+      },
+      "manifest:hasCategory": {
+        "@type": "manifest:Category",
+        "@id": "envited-x:isMedia"
+      },
+      "manifest:hasFileMetadata": {
+        "@type": "manifest:FileMetadata",
+        "manifest:filePath": {
+          "@value": "./media/20240603T143715.300000Z_position_pmsf_zedf9p_119_cutout.gpx",
+          "@type": "xsd:anyURI"
+        },
+        "manifest:mimeType": {
+          "@value": "application/gpx+xml",
+          "@type": "xsd:string"
+        },
+        "manifest:fileSize": {
+          "@value": 172059,
+          "@type": "xsd:integer"
+        },
+        "manifest:filename": {
+          "@value": "20240603T143715.300000Z_position_pmsf_zedf9p_119_cutout.gpx",
+          "@type": "xsd:string"
+        }
+      }
+    },
+    {
+      "@type": "manifest:Link",
+      "manifest:hasAccessRole": {
+        "@type": "manifest:AccessRole",
+        "@id": "envited-x:isPublic"
+      },
+      "manifest:hasCategory": {
+        "@type": "manifest:Category",
+        "@id": "envited-x:isMedia"
+      },
+      "manifest:hasFileMetadata": {
+        "@type": "manifest:FileMetadata",
+        "manifest:filePath": {
+          "@value": "./media/20240603T143705.271700Z_GP033962_119_cutout_adc.mp4",
+          "@type": "xsd:anyURI"
+        },
+        "manifest:mimeType": {
+          "@value": "video/mp4",
+          "@type": "xsd:string"
+        },
+        "manifest:fileSize": {
+          "@value": 41296749,
+          "@type": "xsd:integer"
+        },
+        "manifest:filename": {
+          "@value": "20240603T143705.271700Z_GP033962_119_cutout_adc.mp4",
+          "@type": "xsd:string"
+        }
+      }
+    },
+    {
+      "@type": "manifest:Link",
+      "manifest:hasAccessRole": {
+        "@type": "manifest:AccessRole",
+        "@id": "envited-x:isPublic"
+      },
+      "manifest:hasCategory": {
+        "@type": "manifest:Category",
+        "@id": "envited-x:isMedia"
+      },
+      "manifest:hasFileMetadata": {
+        "@type": "manifest:FileMetadata",
+        "manifest:filePath": {
+          "@value": "./media/20240603T143803.535904Z_sv_370_3200_364_pmsf_dronetracker_119_cutout_01.png",
+          "@type": "xsd:anyURI"
+        },
+        "manifest:mimeType": {
+          "@value": "image/png",
+          "@type": "xsd:string"
+        },
+        "manifest:fileSize": {
+          "@value": 311582,
+          "@type": "xsd:integer"
+        },
+        "manifest:filename": {
+          "@value": "20240603T143803.535904Z_sv_370_3200_364_pmsf_dronetracker_119_cutout_01.png",
+          "@type": "xsd:string"
+        }
+      }
+    }
+  ],
+  "manifest:hasReferencedArtifacts": []
+}

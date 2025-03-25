@@ -33,8 +33,11 @@ jobs:
 
     - name: Create zip file
       run: |
-        zip -r ./asset_119_pmsf_adc_cutout_sensordata.zip ./asset_119_pmsf_adc_cutout_sensordata/*
-        zip -r ./asset_119_pmsf_adc_cutout_sensorview.zip ./asset_119_pmsf_adc_cutout_sensorview/*
+        cd asset_119_pmsf_adc_cutout_sensordata/
+        zip -r ../asset_119_pmsf_adc_cutout_sensordata.zip ./*
+        cd ..
+        cd asset_119_pmsf_adc_cutout_sensorview/
+        zip -r ../asset_119_pmsf_adc_cutout_sensorview.zip ./*
  
     - name: Create Release
       id: create_release
