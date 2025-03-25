@@ -358,5 +358,48 @@
         }
       }
     ],
-    "manifest:hasReferencedArtifacts": []
+    "manifest:hasReferencedArtifacts": [
+      {
+        "@type": "manifest:Link",
+        "manifest:iri": {
+          "@id": "did:web:registry.gaia-x.eu:OSITrace:DjHgK5ErTBow1Ya3J05tW9l12skGWgZn6kA9"
+        },
+        "skos:note": {
+          "@value": "Referenced OSITrace Simulation Asset from <https://github.com/GAIA-X4PLC-AAD/ositrace-asset-example>.",
+          "@type": "xsd:string"
+        },
+        "sh:conformsTo": [
+          {
+            "@id": "https://ontologies.envited-x.net/ositrace/v4/ontology"
+          }
+        ],
+        "manifest:hasAccessRole": {
+          "@type": "manifest:AccessRole",
+          "@id": "envited-x:isPublic"
+        },
+        "manifest:hasCategory": {
+          "@type": "manifest:Category",
+          "@id": "envited-x:isReferencedSimulationData"
+        },
+        "manifest:hasFileMetadata": {
+          "@type": "manifest:FileMetadata",
+          "manifest:filePath": {
+            "@value": "https://github.com/GAIA-X4PLC-AAD/ositrace-asset-example/releases/download/v0.0.1/asset_119_pmsf_adc_cutout_sensorview.zip",
+            "@type": "xsd:anyURI"
+          },
+          "manifest:mimeType": {
+            "@value": "application/zip",
+            "@type": "xsd:string"
+          },
+          "manifest:fileSize": {
+            "@value": 41036692,
+            "@type": "xsd:integer"
+          },
+          "manifest:filename": {
+            "@value": "asset_119_pmsf_adc_cutout_sensorview.zip",
+            "@type": "xsd:string"
+          }
+        }
+      }
+    ]
   }
