@@ -389,7 +389,7 @@
           "@type": "xsd:integer"
         },
         "manifest:filename": {
-          "@value": "Tasset_119_pmsf_adc_cutout_sensorview.zip",
+          "@value": "asset_119_pmsf_adc_cutout_sensorview.zip",
           "@type": "xsd:string"
         }
       }
