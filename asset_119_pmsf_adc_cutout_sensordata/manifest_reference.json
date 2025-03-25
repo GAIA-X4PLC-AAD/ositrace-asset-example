@@ -95,36 +95,6 @@
         "@type": "manifest:Link",
         "manifest:hasAccessRole": {
           "@type": "manifest:AccessRole",
-          "@id": "envited-x:isOwner"
-        },
-        "manifest:hasCategory": {
-          "@type": "manifest:Category",
-          "@id": "envited-x:isSimulationData"
-        },
-        "manifest:hasFileMetadata": {
-          "@type": "manifest:FileMetadata",
-          "manifest:filePath": {
-            "@value": "./simulation-data/20240603T143803.535904Z_sv_370_3200_364_pmsf_dronetracker_119_cutout.osi",
-            "@type": "xsd:anyURI"
-          },
-          "manifest:mimeType": {
-            "@value": "application/x-osi",
-            "@type": "xsd:string"
-          },
-          "manifest:fileSize": {
-            "@value": 91768,
-            "@type": "xsd:integer"
-          },
-          "manifest:filename": {
-            "@value": "20240603T143803.535904Z_sv_370_3200_364_pmsf_dronetracker_119_cutout.osi",
-            "@type": "xsd:string"
-          }
-        }
-      },
-      {
-        "@type": "manifest:Link",
-        "manifest:hasAccessRole": {
-          "@type": "manifest:AccessRole",
           "@id": "envited-x:isRegistered"
         },
         "manifest:hasCategory": {
