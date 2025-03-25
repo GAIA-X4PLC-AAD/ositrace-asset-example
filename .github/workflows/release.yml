@@ -31,13 +31,16 @@ jobs:
     - name: Copy LICENSE to asset_119_pmsf_adc_cutout_sensorview
       run: cp LICENSE ./asset_119_pmsf_adc_cutout_sensorview/
 
-    - name: Create zip file
+    - name: Create zip file for sensorview
+      run: |
+        cd asset_119_pmsf_adc_cutout_sensorview/
+        zip -r ../asset_119_pmsf_adc_cutout_sensorview.zip ./*
+
+    - name: Create zip file for sensordata
       run: |
         cd asset_119_pmsf_adc_cutout_sensordata/
         zip -r ../asset_119_pmsf_adc_cutout_sensordata.zip ./*
-        cd ..
-        cd asset_119_pmsf_adc_cutout_sensorview/
-        zip -r ../asset_119_pmsf_adc_cutout_sensorview.zip ./*
+   
  
     - name: Create Release
       id: create_release

@@ -373,7 +373,7 @@
       "manifest:hasFileMetadata": {
         "@type": "manifest:FileMetadata",
         "manifest:filePath": {
-          "@value": "https://github.com/GAIA-X4PLC-AAD/ositrace-asset-example/releases/download/v0.0.2/asset_119_pmsf_adc_cutout_sensorview.zip",
+          "@value": "https://github.com/GAIA-X4PLC-AAD/ositrace-asset-example/releases/download/v0.0.3/asset_119_pmsf_adc_cutout_sensorview.zip",
           "@type": "xsd:anyURI"
         },
         "manifest:mimeType": {
@@ -389,7 +389,7 @@
           "@type": "xsd:integer"
         },
         "manifest:filename": {
-          "@value": "Tasset_119_pmsf_adc_cutout_sensorview.zip",
+          "@value": "asset_119_pmsf_adc_cutout_sensorview.zip",
           "@type": "xsd:string"
         }
       }
