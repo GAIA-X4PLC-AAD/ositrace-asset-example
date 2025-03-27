@@ -82,7 +82,7 @@
           "@type": "xsd:string"
         },
         "manifest:fileSize": {
-          "@value": 103001,
+          "@value": 102869,
           "@type": "xsd:integer"
         },
         "manifest:filename": {
