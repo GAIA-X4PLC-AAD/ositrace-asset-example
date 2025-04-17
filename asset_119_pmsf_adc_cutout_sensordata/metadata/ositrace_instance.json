@@ -184,7 +184,7 @@
   "ositrace:hasManifest": {
     "@type": "manifest:Link",
     "manifest:iri": {
-      "@id": "did:web:registry.gaia-x.eu:Manifest:q5OkfCSDuJB32KslTNZp1vZ0yL9tM7ayzIe4"
+      "@id": "did:web:registry.gaia-x.eu:Manifest:B4k1sEYDcUQn7Woz5vIj-6tXZ8fh2JpeHhCx"
     },
     "skos:note": {
       "@value": "Ensure that 'manifest_reference.json' contains all required categories: simulationData, documentation, metadata, media.",
