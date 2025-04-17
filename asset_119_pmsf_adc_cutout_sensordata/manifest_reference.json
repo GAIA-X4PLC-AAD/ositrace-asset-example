@@ -8,7 +8,7 @@
     "xsd": "http://www.w3.org/2001/XMLSchema#",
     "skos": "http://www.w3.org/2004/02/skos/core#"
   },
-  "@id": "did:web:registry.gaia-x.eu:Manifest:ZNh9Z-tHQpkpxJhNobhUVmauYxrfTAZdQy9L",
+  "@id": "did:web:registry.gaia-x.eu:Manifest:B4k1sEYDcUQn7Woz5vIj-6tXZ8fh2JpeHhCx",
   "@type": "envited-x:Manifest",
   "manifest:hasManifestReference": {
     "@type": "manifest:Link",
